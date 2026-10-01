@@ -39,7 +39,7 @@
   }
   header.top .wrap{ max-width:920px; margin:0 auto; }
   .brand-row{ display:flex; align-items:center; gap:12px; margin-bottom:18px; }
-  .brand-row img.logo{ height:34px; width:auto; display:block; }
+  .brand-row img.logo{ height:30px; width:auto; display:block; filter:brightness(0) invert(1); opacity:.96; }
   .brand-row .brand-name{ font-family:'Sora', sans-serif; font-weight:700; color:#fff; font-size:1.05rem; letter-spacing:.01em; }
   header.top h1{ color:#fff; font-size:1.9rem; margin-bottom:6px; }
   header.top .sub{ opacity:.92; font-size:1rem; }
@@ -122,6 +122,7 @@
     color:#fff; margin-top:28px; padding:36px 20px 28px;
   }
   footer.brand-footer .wrap{ max-width:920px; margin:0 auto; text-align:center; }
+  footer.brand-footer .footer-logo{ height:26px; width:auto; filter:brightness(0) invert(1); opacity:.9; margin-bottom:20px; }
   footer.brand-footer .mote{
     font-family:'Sora', sans-serif; font-size:1.15rem; font-weight:600; line-height:1.5;
     max-width:620px; margin:0 auto 22px; opacity:.98;
@@ -161,8 +162,8 @@
 <header class="top">
   <div class="wrap">
     <div class="brand-row">
-      <img class="logo" src="assets/logo-marins.png" alt="Marins Benefícios" onerror="this.style.display='none'">
-      <span class="brand-name">Marins Benefícios</span>
+      <img class="logo" src="assets/logo-marins.png" alt="Marins Benefícios" onerror="this.style.display='none'; document.getElementById('brand-fallback').style.display='inline';">
+      <span class="brand-name" id="brand-fallback" style="display:none;">Marins Benefícios</span>
     </div>
     <h1>Radar Saúde PME</h1>
     <div class="sub">Mercado brasileiro de planos de saúde PME e coletivos por adesão</div>
@@ -186,6 +187,7 @@
 
 <footer class="brand-footer">
   <div class="wrap">
+    <img class="footer-logo" src="assets/logo-marins.png" alt="Marins Benefícios" onerror="this.style.display='none'">
     <div class="mote">Informação que prepara. Atitude que transforma. Equipe que cresce. Agora é com você: fale com seus clientes, apresente soluções e conquiste novas vendas!</div>
 
     <div class="social-row">
