@@ -35,9 +35,10 @@
   /* ---------- Header ---------- */
   header.top{
     background:linear-gradient(135deg, var(--accent-strong), var(--accent));
-    color:#fff; padding:24px 20px 30px;
+    color:#fff; padding:24px 20px 30px; position:relative; overflow:hidden;
   }
-  header.top .wrap{ max-width:920px; margin:0 auto; }
+  .header-deco{ position:absolute; top:0; right:0; height:100%; width:46%; min-width:220px; pointer-events:none; }
+  header.top .wrap{ max-width:920px; margin:0 auto; position:relative; z-index:1; }
   .brand-row{ display:flex; align-items:center; gap:12px; margin-bottom:18px; }
   .brand-row img.logo{ height:30px; width:auto; display:block; filter:brightness(0) invert(1); opacity:.96; }
   .brand-row .brand-name{ font-family:'Sora', sans-serif; font-weight:700; color:#fff; font-size:1.05rem; letter-spacing:.01em; }
@@ -57,8 +58,11 @@
   }
   .edition-bar .inner{
     background:var(--surface); border:1px solid var(--border); border-radius:12px;
-    padding:12px 18px; display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    padding:12px 18px; display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap;
     box-shadow:0 2px 6px rgba(16,31,28,.06);
+  }
+  .edition-bar .left-group, .edition-bar .right-group{
+    display:flex; align-items:center; gap:10px; flex-wrap:wrap;
   }
   .edition-bar label{ font-size:.85rem; color:var(--ink-2); font-family:'IBM Plex Mono', monospace; }
   .edition-bar select{
@@ -70,6 +74,24 @@
     font-size:.75rem; font-family:'IBM Plex Mono', monospace; color:var(--accent-strong);
     background:var(--accent-soft); padding:3px 9px; border-radius:999px;
   }
+  .edition-bar .edition-count{
+    font-size:.75rem; font-family:'IBM Plex Mono', monospace; color:var(--ink-2);
+    background:var(--bg); border:1px solid var(--border); padding:3px 9px; border-radius:999px;
+  }
+  .share-btn{
+    display:inline-flex; align-items:center; gap:6px; font-size:.82rem;
+    font-family:'IBM Plex Sans', sans-serif; font-weight:500; color:var(--accent-strong);
+    background:var(--accent-soft); border:1px solid transparent; padding:7px 13px;
+    border-radius:8px; cursor:pointer; transition:background .15s;
+  }
+  .share-btn:hover{ background:#d2ece6; }
+  .share-btn svg{ width:14px; height:14px; fill:var(--accent-strong); flex-shrink:0; }
+  .share-toast{
+    position:fixed; bottom:22px; left:50%; transform:translateX(-50%) translateY(10px);
+    background:var(--ink); color:#fff; padding:9px 18px; border-radius:8px; font-size:.85rem;
+    opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease; z-index:60;
+  }
+  .share-toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
 
   main{ max-width:920px; margin:0 auto; padding:24px 20px 10px; }
 
@@ -145,9 +167,12 @@
   @media (max-width:600px){
     header.top{ padding:20px 16px 26px; }
     header.top h1{ font-size:1.5rem; }
+    .header-deco{ display:none; }
     main{ padding:18px 14px; }
     .card{ padding:18px; }
     .video-card .video-head{ padding:16px 18px 12px; }
+    .edition-bar .inner{ justify-content:flex-start; }
+    .edition-bar .right-group{ width:100%; justify-content:space-between; }
     footer.brand-footer{ padding:28px 16px 22px; }
     footer.brand-footer .mote{ font-size:1.02rem; }
   }
@@ -156,6 +181,11 @@
 <body>
 
 <header class="top">
+  <svg class="header-deco" viewBox="0 0 400 300" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" focusable="false">
+    <circle cx="350" cy="50" r="190" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.14"/>
+    <circle cx="395" cy="160" r="115" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.12"/>
+    <circle cx="300" cy="240" r="55" fill="#ffffff" opacity="0.06"/>
+  </svg>
   <div class="wrap">
     <div class="brand-row">
       <img class="logo" src="assets/logo-marins.png" alt="Marins Benefícios" onerror="this.style.display='none'; document.getElementById('brand-fallback').style.display='inline';">
@@ -171,11 +201,21 @@
 
 <div class="edition-bar">
   <div class="inner">
-    <label for="edition-select">Edição:</label>
-    <select id="edition-select"></select>
-    <span class="latest-flag" id="latest-flag" style="display:none;">mais recente</span>
+    <div class="left-group">
+      <label for="edition-select">Edição:</label>
+      <select id="edition-select"></select>
+      <span class="latest-flag" id="latest-flag" style="display:none;">mais recente</span>
+    </div>
+    <div class="right-group">
+      <span class="edition-count" id="edition-count"></span>
+      <button type="button" class="share-btn" id="share-btn">
+        <svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 1 0-3-3c0 .24.04.47.09.7L8.04 9.81A3 3 0 1 0 6 15.19a3 3 0 0 0 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65a2.92 2.92 0 1 0 2.92-3.11z"/></svg>
+        Compartilhar
+      </button>
+    </div>
   </div>
 </div>
+<div class="share-toast" id="share-toast">Link copiado!</div>
 
 <main id="main-content">
   <!-- preenchido via JS -->
@@ -282,12 +322,52 @@
     return '<div class="card editorial-note">' + ed.criterioEditorial + '</div>';
   }
 
-  function renderEdition(ed){
+  function editionOrdinal(ed, editions){
+    var asc = editions.slice().sort(function(a,b){ return a.date.localeCompare(b.date); });
+    var idx = asc.findIndex(function(e){ return e.date === ed.date; });
+    return { num: idx + 1, total: asc.length };
+  }
+
+  function updateEditionMeta(ed, editions){
+    document.getElementById('latest-flag').style.display = (ed.date === editions[0].date) ? '' : 'none';
+    var ord = editionOrdinal(ed, editions);
+    document.getElementById('edition-count').textContent = 'Edição nº ' + ord.num;
+  }
+
+  function showToast(msg){
+    var toast = document.getElementById('share-toast');
+    toast.textContent = msg;
+    toast.classList.add('show');
+    clearTimeout(toast._hideTimer);
+    toast._hideTimer = setTimeout(function(){ toast.classList.remove('show'); }, 2200);
+  }
+
+  function copyText(text){
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      return navigator.clipboard.writeText(text);
+    }
+    return new Promise(function(resolve, reject){
+      try{
+        var ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.focus(); ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        resolve();
+      }catch(e){ reject(e); }
+    });
+  }
+
+  function renderEdition(ed, editions){
     currentEdition = ed;
     renderPills(ed);
     var html = renderVideo(ed) + renderSummary(ed) + renderSecoes(ed) + renderPontos(ed) + renderCriterio(ed);
     document.getElementById('main-content').innerHTML = html;
     document.title = 'Radar Saúde PME — ' + ed.dateLabel + ' — Marins Benefícios';
+    if(editions){ updateEditionMeta(ed, editions); }
   }
 
   function populateSelector(editions){
@@ -301,21 +381,36 @@
     });
     sel.addEventListener('change', function(){
       var ed = editions.filter(function(e){ return e.date === sel.value; })[0];
-      if(ed){
-        renderEdition(ed);
-        document.getElementById('latest-flag').style.display = (ed.date === editions[0].date) ? '' : 'none';
-      }
+      if(ed){ renderEdition(ed, editions); }
     });
   }
+
+  document.getElementById('share-btn').addEventListener('click', function(){
+    if(!currentEdition){ return; }
+    var url = window.location.origin + window.location.pathname + '?edicao=' + currentEdition.date;
+    copyText(url).then(function(){
+      showToast('Link copiado! Cole para compartilhar esta edição.');
+    }).catch(function(){
+      showToast('Não foi possível copiar automaticamente. Link: ' + url);
+    });
+  });
 
   fetch('editions.json?v=' + Date.now())
     .then(function(r){ return r.json(); })
     .then(function(data){
       editionsData = data.editions.slice().sort(function(a,b){ return b.date.localeCompare(a.date); });
       populateSelector(editionsData);
-      document.getElementById('edition-select').value = editionsData[0].date;
-      document.getElementById('latest-flag').style.display = '';
-      renderEdition(editionsData[0]);
+
+      var params = new URLSearchParams(window.location.search);
+      var requested = params.get('edicao');
+      var initial = editionsData[0];
+      if(requested){
+        var match = editionsData.filter(function(e){ return e.date === requested; })[0];
+        if(match){ initial = match; }
+      }
+
+      document.getElementById('edition-select').value = initial.date;
+      renderEdition(initial, editionsData);
     })
     .catch(function(err){
       document.getElementById('main-content').innerHTML =
