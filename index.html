@@ -27,17 +27,20 @@
   body{
     margin:0; background:var(--bg); color:var(--ink);
     font-family:'IBM Plex Sans', sans-serif; line-height:1.55;
-    padding-bottom:60px;
   }
   h1,h2,h3{ font-family:'Sora', sans-serif; color:var(--accent-strong); margin:0 0 8px; }
   a{ color:var(--accent-strong); }
   .mono{ font-family:'IBM Plex Mono', monospace; }
 
+  /* ---------- Header ---------- */
   header.top{
     background:linear-gradient(135deg, var(--accent-strong), var(--accent));
-    color:#fff; padding:36px 20px 30px;
+    color:#fff; padding:24px 20px 30px;
   }
   header.top .wrap{ max-width:920px; margin:0 auto; }
+  .brand-row{ display:flex; align-items:center; gap:12px; margin-bottom:18px; }
+  .brand-row img.logo{ height:34px; width:auto; display:block; }
+  .brand-row .brand-name{ font-family:'Sora', sans-serif; font-weight:700; color:#fff; font-size:1.05rem; letter-spacing:.01em; }
   header.top h1{ color:#fff; font-size:1.9rem; margin-bottom:6px; }
   header.top .sub{ opacity:.92; font-size:1rem; }
   header.top .meta{
@@ -48,7 +51,27 @@
     padding:5px 12px; border-radius:999px; font-size:.82rem; font-family:'IBM Plex Mono', monospace;
   }
 
-  main{ max-width:920px; margin:0 auto; padding:24px 20px; }
+  /* ---------- Edition selector ---------- */
+  .edition-bar{
+    max-width:920px; margin:-18px auto 0; padding:0 20px;
+  }
+  .edition-bar .inner{
+    background:var(--surface); border:1px solid var(--border); border-radius:12px;
+    padding:12px 18px; display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    box-shadow:0 2px 6px rgba(16,31,28,.06);
+  }
+  .edition-bar label{ font-size:.85rem; color:var(--ink-2); font-family:'IBM Plex Mono', monospace; }
+  .edition-bar select{
+    font-family:'IBM Plex Sans', sans-serif; font-size:.95rem; color:var(--ink);
+    border:1px solid var(--border); border-radius:8px; padding:7px 10px; background:#fff;
+    cursor:pointer;
+  }
+  .edition-bar .latest-flag{
+    font-size:.75rem; font-family:'IBM Plex Mono', monospace; color:var(--accent-strong);
+    background:var(--accent-soft); padding:3px 9px; border-radius:999px;
+  }
+
+  main{ max-width:920px; margin:0 auto; padding:24px 20px 10px; }
 
   .card{
     background:var(--surface); border:1px solid var(--border); border-radius:14px;
@@ -83,10 +106,7 @@
   ol.priority{ padding-left:20px; }
   ol.priority li{ margin-bottom:10px; }
 
-  footer{
-    max-width:920px; margin:0 auto; padding:10px 20px 40px; color:var(--ink-2); font-size:.85rem;
-  }
-
+  /* ---------- Video ---------- */
   .video-card{ padding:0; overflow:hidden; }
   .video-card .video-head{ padding:18px 24px 14px; }
   .video-card .video-head h2{ margin-bottom:2px; }
@@ -94,12 +114,45 @@
   .video-wrap{ position:relative; width:100%; padding-top:56.25%; background:#000; }
   .video-wrap iframe{ position:absolute; top:0; left:0; width:100%; height:100%; border:0; }
 
+  .editorial-note{ font-size:.85rem; color:var(--ink-2); }
+
+  /* ---------- Footer ---------- */
+  footer.brand-footer{
+    background:linear-gradient(135deg, var(--accent-strong), var(--accent));
+    color:#fff; margin-top:28px; padding:36px 20px 28px;
+  }
+  footer.brand-footer .wrap{ max-width:920px; margin:0 auto; text-align:center; }
+  footer.brand-footer .mote{
+    font-family:'Sora', sans-serif; font-size:1.15rem; font-weight:600; line-height:1.5;
+    max-width:620px; margin:0 auto 22px; opacity:.98;
+  }
+  footer.brand-footer .mote::before{ content:"“"; }
+  footer.brand-footer .mote::after{ content:"”"; }
+  .social-row{ display:flex; justify-content:center; gap:18px; margin-bottom:18px; flex-wrap:wrap; }
+  .social-row a{
+    display:inline-flex; align-items:center; gap:7px; color:#fff; text-decoration:none;
+    font-size:.88rem; font-family:'IBM Plex Sans', sans-serif;
+    background:rgba(255,255,255,.14); border:1px solid rgba(255,255,255,.3);
+    padding:7px 14px; border-radius:999px;
+  }
+  .social-row a:hover{ background:rgba(255,255,255,.24); }
+  .social-row svg{ width:16px; height:16px; fill:#fff; flex-shrink:0; }
+  footer.brand-footer .credit{ font-size:.88rem; opacity:.95; margin-bottom:4px; }
+  footer.brand-footer .contact{ font-size:.82rem; opacity:.85; margin-bottom:18px; }
+  footer.brand-footer .contact a{ color:#fff; text-decoration:underline; }
+  footer.brand-footer .fineprint{
+    font-size:.78rem; opacity:.75; border-top:1px solid rgba(255,255,255,.22);
+    padding-top:16px; margin-top:4px;
+  }
+
   @media (max-width:600px){
-    header.top{ padding:28px 16px 24px; }
+    header.top{ padding:20px 16px 26px; }
     header.top h1{ font-size:1.5rem; }
     main{ padding:18px 14px; }
     .card{ padding:18px; }
     .video-card .video-head{ padding:16px 18px 12px; }
+    footer.brand-footer{ padding:28px 16px 22px; }
+    footer.brand-footer .mote{ font-size:1.02rem; }
   }
 </style>
 </head>
@@ -107,119 +160,176 @@
 
 <header class="top">
   <div class="wrap">
+    <div class="brand-row">
+      <img class="logo" src="assets/logo-marins.png" alt="Marins Benefícios" onerror="this.style.display='none'">
+      <span class="brand-name">Marins Benefícios</span>
+    </div>
     <h1>Radar Saúde PME</h1>
     <div class="sub">Mercado brasileiro de planos de saúde PME e coletivos por adesão</div>
-    <div class="meta">
-      <span class="pill" id="briefing-date">28/09/2026</span>
-      <span class="pill">Janela: 21 a 27 de setembro de 2026</span>
-      <span class="pill">Recorte: Rio de Janeiro</span>
+    <div class="meta" id="header-pills">
+      <!-- preenchido via JS -->
     </div>
   </div>
 </header>
 
-<main>
-
-  <div class="card video-card">
-    <div class="video-head">
-      <h2>Resumo em vídeo</h2>
-      <div class="narrator">Narração: Samanta Marins · Edição de 28/09/2026</div>
-    </div>
-    <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/VPOotXlGWf8" title="Radar Saúde PME — Resumo em vídeo, edição de 28/09/2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+<div class="edition-bar">
+  <div class="inner">
+    <label for="edition-select">Edição:</label>
+    <select id="edition-select"></select>
+    <span class="latest-flag" id="latest-flag" style="display:none;">mais recente</span>
   </div>
+</div>
 
-  <div class="card summary">
-    <h2>Resumo executivo</h2>
-    <ul>
-      <li><b>Bradesco Saúde lançou o Efetivo Plus no Rio de Janeiro</b>, ampliando a disputa por PMEs de 3 a 199 vidas com cobertura nacional, rede local direcionada e coparticipação opcional.</li>
-      <li><b>Qualicorp e NotreDame apresentaram novas condições comerciais</b> para produtos premium por adesão no Rio; os detalhes públicos, porém, ainda não incluem tabelas, regras de elegibilidade, carências ou comissionamento.</li>
-      <li><b>A ANS publicou novas coberturas obrigatórias com vigência em 1º/10</b> e manteve aberta uma consulta pública sobre sequenciamento completo do exoma.</li>
-    </ul>
-  </div>
-
-  <div class="card">
-    <h2>1. Regulação e decisões da ANS</h2>
-
-    <h3>1.1 Cinco atualizações do Rol entram em vigor em 1º/10</h3>
-    <span class="tag confirmado">Confirmado</span>
-    <p>A ANS informou em 22/09 que a RN 680/2026 atualiza a cobertura obrigatória de cinco tecnologias:</p>
-    <ul>
-      <li>anfotericina B lipossomal para leishmaniose visceral;</li>
-      <li>rituximabe para manutenção de pacientes com vasculite associada a ANCA;</li>
-      <li>adalimumabe para crianças a partir de 2 anos e adolescentes com uveíte não infecciosa ativa;</li>
-      <li>DIU/SIU hormonal, incluindo o dispositivo, para endometriose nos critérios da DUT 175;</li>
-      <li>elastografia hepática ultrassônica para colangite biliar primária com suspeita ou diagnóstico de fibrose/cirrose.</li>
-    </ul>
-    <div class="impact"><b>Impacto para a Marins:</b> atualizar materiais de pós-venda e orientar clientes de que a cobertura não é irrestrita: a indicação clínica e as Diretrizes de Utilização continuam determinantes. A mudança pode gerar dúvidas e solicitações a partir de outubro; antecipar a comunicação reduz ruído e reclamações.</div>
-    <div class="source">Fonte oficial: ANS, 22/09/2026 — <a href="https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol/" target="_blank" rel="noopener">ANS aprova atualização de cinco tecnologias no Rol</a></div>
-
-    <h3>1.2 Mamografia digital sem restrição de idade a partir de 1º/10</h3>
-    <span class="tag confirmado">Confirmado</span>
-    <p>A ANS retirou a restrição etária da mamografia digital. Com prescrição do médico assistente, o exame passa a ter cobertura obrigatória independentemente da idade.</p>
-    <div class="impact"><b>Impacto para a Marins:</b> incluir a mudança nas comunicações de Outubro Rosa e no suporte a RHs. É uma atualização simples, de alta utilidade prática e boa oportunidade de relacionamento com clientes empresariais.</div>
-    <div class="source">Fonte oficial: ANS, 10/09/2026 — <a href="https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-mamografia-digital-sem-restricao-de-idade" target="_blank" rel="noopener">ANS aprova mamografia digital sem restrição de idade</a></div>
-
-    <h3>1.3 Consulta Pública 176 sobre sequenciamento completo do exoma</h3>
-    <span class="tag proposta">Proposta — ainda não é cobertura vigente</span>
-    <p>Aberta em 21/09 e com contribuições até 10/10, a consulta discute a alteração da DUT 110.39 para sequenciamento completo do exoma em casos de deficiência intelectual ou atraso global do desenvolvimento neuropsicomotor de causa indeterminada.</p>
-    <div class="risk"><b>Impacto para a Marins:</b> não comunicar como benefício já incorporado. O tema deve ser acompanhado porque, se aprovado, poderá ampliar cobertura de diagnóstico genético e exigir ajustes de orientação e autorização.</div>
-    <div class="source">Fonte oficial: ANS, 21/09/2026 — <a href="https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-176-ans-recebe-contribuicoes-para-atualizacao-do-rol/" target="_blank" rel="noopener">Consulta Pública 176</a></div>
-  </div>
-
-  <div class="card">
-    <h2>2. Operadoras, administradoras e produtos</h2>
-
-    <h3>2.1 Bradesco Saúde lança Efetivo Plus no Rio</h3>
-    <span class="tag confirmado">Confirmado</span>
-    <p>O lançamento foi divulgado em 25/09 para empresas de <b>3 a 199 vidas</b>. As condições públicas confirmadas incluem:</p>
-    <ul>
-      <li>contratação por CNPJ ou CAEPF a partir de 3 pessoas;</li>
-      <li>cobertura nacional, ambulatorial e hospitalar com obstetrícia;</li>
-      <li>acomodação em enfermaria ou quarto;</li>
-      <li>coparticipação opcional; quando contratada para grupos de 3 a 199 pessoas, há participação de 30% em consultas, pronto-socorro, exames e procedimentos definidos, além de valor fixo por internação, observados os limites da tabela;</li>
-      <li>reembolso específico para consultas médicas e honorários médicos de paciente internado;</li>
-      <li>vigência contratual inicial de 24 meses;</li>
-      <li>isenção de carência e CPT em contratos com 30 ou mais beneficiários, desde que a inclusão ocorra no prazo contratual;</li>
-      <li>rede divulgada no Rio com Glória D'Or, Casa de Saúde São José, Hospital Vitória, Hospital São Vicente de Paulo, Hospital Mário Lioni e Complexo Hospitalar de Niterói, além de cinco unidades Meu Doutor Novamed no Rio e em Niterói.</li>
-    </ul>
-    <div class="opp"><b>Oportunidade para a Marins:</b> produto novo e diretamente aderente ao núcleo PME da corretora. Vale montar comparativo contra opções nacionais e regionais em perfis de 3–29 e 30–199 vidas, destacando rede, reembolso, coparticipação e isenção de carências.</div>
-    <div class="risk"><b>Risco / checagem necessária:</b> confirmar na cotação a rede por município, os tetos de coparticipação, os valores de reembolso, as regras de redução de carência e o efeito do prazo inicial de 24 meses. Não foi localizada tabela pública oficial de preços nem regra pública de comissionamento.</div>
-    <div class="source">Fontes: Bradesco Seguros — <a href="https://www.bradescoseguros.com.br/clientes/produtos/plano-saude/efetivo-plus-spg" target="_blank" rel="noopener">Efetivo Plus SPG</a>; Revista Apólice, 25/09/2026 — <a href="https://revistaapolice.com.br/2026/09/bradesco-saude-amplia-grade-de-produtos-no-rio-de-janeiro/" target="_blank" rel="noopener">Bradesco Saúde amplia grade de produtos no Rio de Janeiro</a></div>
-
-    <h3>2.2 Qualicorp e NotreDame apresentam novas condições para adesão premium</h3>
-    <span class="tag confirmado">Confirmado com ressalvas</span>
-    <p>Em encontros com corretores em 22/09, em São Paulo, e 23/09, no Rio de Janeiro, foram apresentados os planos coletivos por adesão Advance 600, Advance 700, Premium 900 Care e Premium 900. Conforme o produto, há concierge de saúde, telemedicina, jornada digital, medicina preventiva e opções de reembolso. Para o Rio, a divulgação cita Pró-Cardíaco, Glória D'Or, Prontobaby, Casa de Saúde São José e Perinatal Laranjeiras.</p>
-    <div class="opp"><b>Oportunidade para a Marins:</b> reforço de portfólio para clientes de adesão com demanda por rede premium e reembolso, especialmente em comparação com produtos empresariais de pequena massa.</div>
-    <div class="risk"><b>Risco / checagem necessária:</b> a publicação não informa tabelas, entidades elegíveis, abrangência detalhada, regras de carência, coparticipação, vigência de campanha ou comissionamento. A equipe comercial deve validar esses itens nos canais da Qualicorp antes de ofertar ou divulgar qualquer vantagem.</div>
-    <div class="source">Fonte pública: Revista Apólice, 24/09/2026 — <a href="https://revistaapolice.com.br/2026/09/qualicorp-apresenta-novas-condicoes-da-notredame-a-corretores/" target="_blank" rel="noopener">Qualicorp apresenta novas condições da NotreDame a corretores</a></div>
-  </div>
-
-  <div class="card">
-    <h2>3. Condições comerciais públicas e sinais não confirmados</h2>
-    <div class="impact"><b>Confirmado:</b> as condições públicas relevantes da semana concentram-se no desenho do Efetivo Plus e no anúncio do portfólio Qualicorp/NotreDame.</div>
-    <div class="risk"><b>Não divulgado publicamente:</b> não foram encontradas novas tabelas oficiais de preços, percentuais de reajuste coletivo, campanhas de redução de carência ou percentuais de comissionamento aplicáveis ao mercado do Rio nessa janela. Esses dados devem ser tratados como pendentes de material oficial do canal comercial.</div>
-    <p style="margin-top:12px;"><b>Rumores:</b> nenhum rumor relevante foi incluído. Não há base suficiente para afirmar mudanças além das informações confirmadas acima.</p>
-  </div>
-
-  <div class="card">
-    <h2>Pontos de atenção prioritários da semana</h2>
-    <ol class="priority">
-      <li><b>Operacionalizar as coberturas de 1º/10:</b> atualizar scripts, FAQ e orientação aos RHs sobre RN 680 e mamografia digital, sempre observando DUT e prescrição.</li>
-      <li><b>Cotar e comparar o Bradesco Efetivo Plus no RJ:</b> priorizar cenários de 3–29 e 30–199 vidas, validando rede real, reembolso, coparticipação, carências e impacto da vigência de 24 meses.</li>
-      <li><b>Obter o material oficial Qualicorp/NotreDame:</b> exigir tabela, elegibilidade, carências, vigência, coparticipação e comissão antes de transformar o anúncio em campanha comercial.</li>
-    </ol>
-  </div>
-
-  <div class="card" style="font-size:.85rem; color:var(--ink-2);">
-    <b>Critério editorial:</b> fatos confirmados foram separados de propostas e lacunas de informação. Foram priorizadas fontes oficiais; imprensa setorial foi usada apenas para anúncios comerciais ainda não detalhados em páginas primárias públicas.
-  </div>
-
+<main id="main-content">
+  <!-- preenchido via JS -->
 </main>
 
-<footer>
-  Radar Saúde PME · Atualizado semanalmente a partir do briefing enviado por e-mail · Marins Benefícios
+<footer class="brand-footer">
+  <div class="wrap">
+    <div class="mote">Informação que prepara. Atitude que transforma. Equipe que cresce. Agora é com você: fale com seus clientes, apresente soluções e conquiste novas vendas!</div>
+
+    <div class="social-row">
+      <a href="https://www.instagram.com/marinsbeneficios" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24"><path d="M12 2.2c3.2 0 3.58.01 4.85.07 1.17.05 1.97.24 2.43.4a4.9 4.9 0 0 1 1.77 1.15 4.9 4.9 0 0 1 1.15 1.77c.16.46.35 1.26.4 2.43.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.24 1.97-.4 2.43a4.9 4.9 0 0 1-1.15 1.77 4.9 4.9 0 0 1-1.77 1.15c-.46.16-1.26.35-2.43.4-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.97-.24-2.43-.4a4.9 4.9 0 0 1-1.77-1.15 4.9 4.9 0 0 1-1.15-1.77c-.16-.46-.35-1.26-.4-2.43C2.21 15.58 2.2 15.2 2.2 12s.01-3.58.07-4.85c.05-1.17.24-1.97.4-2.43a4.9 4.9 0 0 1 1.15-1.77A4.9 4.9 0 0 1 5.59 1.8c.46-.16 1.26-.35 2.43-.4C9.29 1.34 9.67 1.33 12 1.33m0 1.8c-3.17 0-3.52.01-4.76.07-1.03.05-1.6.22-1.97.36-.5.19-.85.42-1.22.79-.37.37-.6.72-.79 1.22-.14.37-.31.94-.36 1.97-.06 1.24-.07 1.6-.07 4.76s.01 3.52.07 4.76c.05 1.03.22 1.6.36 1.97.19.5.42.85.79 1.22.37.37.72.6 1.22.79.37.14.94.31 1.97.36 1.24.06 1.6.07 4.76.07s3.52-.01 4.76-.07c1.03-.05 1.6-.22 1.97-.36.5-.19.85-.42 1.22-.79.37-.37.6-.72.79-1.22.14-.37.31-.94.36-1.97.06-1.24.07-1.6.07-4.76s-.01-3.52-.07-4.76c-.05-1.03-.22-1.6-.36-1.97a3.1 3.1 0 0 0-.79-1.22 3.1 3.1 0 0 0-1.22-.79c-.37-.14-.94-.31-1.97-.36-1.24-.06-1.6-.07-4.76-.07M12 6.86a5.14 5.14 0 1 1 0 10.28 5.14 5.14 0 0 1 0-10.28m0 1.8a3.34 3.34 0 1 0 0 6.68 3.34 3.34 0 0 0 0-6.68m5.34-2a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0"/></svg>
+        @marinsbeneficios
+      </a>
+      <a href="https://www.youtube.com/@MarinsBeneficios" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8M9.6 15.6V8.4l6.3 3.6-6.3 3.6Z"/></svg>
+        @MarinsBenefícios
+      </a>
+    </div>
+
+    <div class="credit">Produzido pelo time de Inteligência Comercial</div>
+    <div class="contact">
+      Dúvidas ou sugestões: <a href="mailto:contato@marinsbeneficios.com">contato@marinsbeneficios.com</a> · WhatsApp (21) 2483-0267
+    </div>
+
+    <div class="fineprint">
+      Radar Saúde PME · Atualizado semanalmente a partir do briefing enviado por e-mail · Marins Benefícios
+    </div>
+  </div>
 </footer>
+
+<script>
+(function(){
+  var editionsData = null;
+  var currentEdition = null;
+
+  function escapeAttr(s){ return String(s); }
+
+  function renderPills(ed){
+    var pillsEl = document.getElementById('header-pills');
+    pillsEl.innerHTML =
+      '<span class="pill">' + ed.dateLabel + '</span>' +
+      '<span class="pill">' + ed.janela + '</span>' +
+      '<span class="pill">' + ed.recorte + '</span>';
+  }
+
+  function renderVideo(ed){
+    if(!ed.videoId){ return ''; }
+    return (
+      '<div class="card video-card">' +
+        '<div class="video-head">' +
+          '<h2>Resumo em vídeo</h2>' +
+          '<div class="narrator">' + (ed.videoNarrador || '') + ' · Edição de ' + ed.dateLabel + '</div>' +
+        '</div>' +
+        '<div class="video-wrap">' +
+          '<iframe src="https://www.youtube.com/embed/' + ed.videoId + '" title="Radar Saúde PME — Resumo em vídeo, edição de ' + ed.dateLabel + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>' +
+        '</div>' +
+      '</div>'
+    );
+  }
+
+  function renderSummary(ed){
+    var items = (ed.resumoExecutivo || []).map(function(t){ return '<li>' + t + '</li>'; }).join('');
+    return (
+      '<div class="card summary">' +
+        '<h2>Resumo executivo</h2>' +
+        '<ul>' + items + '</ul>' +
+      '</div>'
+    );
+  }
+
+  function renderBloco(b){
+    var cls = b.tipo === 'opp' ? 'opp' : (b.tipo === 'risk' ? 'risk' : 'impact');
+    return '<div class="' + cls + '"><b>' + b.label + ':</b> ' + b.texto + '</div>';
+  }
+
+  function renderItem(it){
+    var html = '';
+    if(it.subtitulo){ html += '<h3>' + it.subtitulo + '</h3>'; }
+    if(it.tag){ html += '<span class="tag ' + it.tag + '">' + (it.tagLabel || it.tag) + '</span>'; }
+    html += it.corpo || '';
+    (it.blocos || []).forEach(function(b){ html += renderBloco(b); });
+    if(it.fonte){ html += '<div class="source">' + it.fonte + '</div>'; }
+    return html;
+  }
+
+  function renderSecoes(ed){
+    return (ed.secoes || []).map(function(sec){
+      var itensHtml = (sec.itens || []).map(renderItem).join('');
+      return '<div class="card"><h2>' + sec.titulo + '</h2>' + itensHtml + '</div>';
+    }).join('');
+  }
+
+  function renderPontos(ed){
+    if(!ed.pontosAtencao || !ed.pontosAtencao.length){ return ''; }
+    var items = ed.pontosAtencao.map(function(t){ return '<li>' + t + '</li>'; }).join('');
+    return (
+      '<div class="card">' +
+        '<h2>Pontos de atenção prioritários da semana</h2>' +
+        '<ol class="priority">' + items + '</ol>' +
+      '</div>'
+    );
+  }
+
+  function renderCriterio(ed){
+    if(!ed.criterioEditorial){ return ''; }
+    return '<div class="card editorial-note">' + ed.criterioEditorial + '</div>';
+  }
+
+  function renderEdition(ed){
+    currentEdition = ed;
+    renderPills(ed);
+    var html = renderVideo(ed) + renderSummary(ed) + renderSecoes(ed) + renderPontos(ed) + renderCriterio(ed);
+    document.getElementById('main-content').innerHTML = html;
+    document.title = 'Radar Saúde PME — ' + ed.dateLabel + ' — Marins Benefícios';
+  }
+
+  function populateSelector(editions){
+    var sel = document.getElementById('edition-select');
+    sel.innerHTML = '';
+    editions.forEach(function(ed, i){
+      var opt = document.createElement('option');
+      opt.value = ed.date;
+      opt.textContent = 'Edição de ' + ed.dateLabel;
+      sel.appendChild(opt);
+    });
+    sel.addEventListener('change', function(){
+      var ed = editions.filter(function(e){ return e.date === sel.value; })[0];
+      if(ed){
+        renderEdition(ed);
+        document.getElementById('latest-flag').style.display = (ed.date === editions[0].date) ? '' : 'none';
+      }
+    });
+  }
+
+  fetch('editions.json?v=' + Date.now())
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      editionsData = data.editions.slice().sort(function(a,b){ return b.date.localeCompare(a.date); });
+      populateSelector(editionsData);
+      document.getElementById('edition-select').value = editionsData[0].date;
+      document.getElementById('latest-flag').style.display = '';
+      renderEdition(editionsData[0]);
+    })
+    .catch(function(err){
+      document.getElementById('main-content').innerHTML =
+        '<div class="card"><h2>Não foi possível carregar o conteúdo</h2><p>Tente recarregar a página em alguns instantes.</p></div>';
+      console.error('Erro ao carregar editions.json', err);
+    });
+})();
+</script>
 
 </body>
 </html>
