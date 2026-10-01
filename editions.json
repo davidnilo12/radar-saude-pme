@@ -1,0 +1,102 @@
+{
+  "editions": [
+    {
+      "date": "2026-09-28",
+      "dateLabel": "28/09/2026",
+      "janela": "Janela: 21 a 27 de setembro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": "VPOotXlGWf8",
+      "videoNarrador": "Narração: Samanta Marins",
+      "resumoExecutivo": [
+        "<b>Bradesco Saúde lançou o Efetivo Plus no Rio de Janeiro</b>, ampliando a disputa por PMEs de 3 a 199 vidas com cobertura nacional, rede local direcionada e coparticipação opcional.",
+        "<b>Qualicorp e NotreDame apresentaram novas condições comerciais</b> para produtos premium por adesão no Rio; os detalhes públicos, porém, ainda não incluem tabelas, regras de elegibilidade, carências ou comissionamento.",
+        "<b>A ANS publicou novas coberturas obrigatórias com vigência em 1º/10</b> e manteve aberta uma consulta pública sobre sequenciamento completo do exoma."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação e decisões da ANS",
+          "itens": [
+            {
+              "subtitulo": "1.1 Cinco atualizações do Rol entram em vigor em 1º/10",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>A ANS informou em 22/09 que a RN 680/2026 atualiza a cobertura obrigatória de cinco tecnologias:</p><ul><li>anfotericina B lipossomal para leishmaniose visceral;</li><li>rituximabe para manutenção de pacientes com vasculite associada a ANCA;</li><li>adalimumabe para crianças a partir de 2 anos e adolescentes com uveíte não infecciosa ativa;</li><li>DIU/SIU hormonal, incluindo o dispositivo, para endometriose nos critérios da DUT 175;</li><li>elastografia hepática ultrassônica para colangite biliar primária com suspeita ou diagnóstico de fibrose/cirrose.</li></ul>",
+              "blocos": [
+                {"tipo": "impact", "label": "Impacto para a Marins", "texto": "atualizar materiais de pós-venda e orientar clientes de que a cobertura não é irrestrita: a indicação clínica e as Diretrizes de Utilização continuam determinantes. A mudança pode gerar dúvidas e solicitações a partir de outubro; antecipar a comunicação reduz ruído e reclamações."}
+              ],
+              "fonte": "Fonte oficial: ANS, 22/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol/\" target=\"_blank\" rel=\"noopener\">ANS aprova atualização de cinco tecnologias no Rol</a>"
+            },
+            {
+              "subtitulo": "1.2 Mamografia digital sem restrição de idade a partir de 1º/10",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>A ANS retirou a restrição etária da mamografia digital. Com prescrição do médico assistente, o exame passa a ter cobertura obrigatória independentemente da idade.</p>",
+              "blocos": [
+                {"tipo": "impact", "label": "Impacto para a Marins", "texto": "incluir a mudança nas comunicações de Outubro Rosa e no suporte a RHs. É uma atualização simples, de alta utilidade prática e boa oportunidade de relacionamento com clientes empresariais."}
+              ],
+              "fonte": "Fonte oficial: ANS, 10/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-mamografia-digital-sem-restricao-de-idade\" target=\"_blank\" rel=\"noopener\">ANS aprova mamografia digital sem restrição de idade</a>"
+            },
+            {
+              "subtitulo": "1.3 Consulta Pública 176 sobre sequenciamento completo do exoma",
+              "tag": "proposta",
+              "tagLabel": "Proposta — ainda não é cobertura vigente",
+              "corpo": "<p>Aberta em 21/09 e com contribuições até 10/10, a consulta discute a alteração da DUT 110.39 para sequenciamento completo do exoma em casos de deficiência intelectual ou atraso global do desenvolvimento neuropsicomotor de causa indeterminada.</p>",
+              "blocos": [
+                {"tipo": "risk", "label": "Impacto para a Marins", "texto": "não comunicar como benefício já incorporado. O tema deve ser acompanhado porque, se aprovado, poderá ampliar cobertura de diagnóstico genético e exigir ajustes de orientação e autorização."}
+              ],
+              "fonte": "Fonte oficial: ANS, 21/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-176-ans-recebe-contribuicoes-para-atualizacao-do-rol/\" target=\"_blank\" rel=\"noopener\">Consulta Pública 176</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. Operadoras, administradoras e produtos",
+          "itens": [
+            {
+              "subtitulo": "2.1 Bradesco Saúde lança Efetivo Plus no Rio",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>O lançamento foi divulgado em 25/09 para empresas de <b>3 a 199 vidas</b>. As condições públicas confirmadas incluem:</p><ul><li>contratação por CNPJ ou CAEPF a partir de 3 pessoas;</li><li>cobertura nacional, ambulatorial e hospitalar com obstetrícia;</li><li>acomodação em enfermaria ou quarto;</li><li>coparticipação opcional; quando contratada para grupos de 3 a 199 pessoas, há participação de 30% em consultas, pronto-socorro, exames e procedimentos definidos, além de valor fixo por internação, observados os limites da tabela;</li><li>reembolso específico para consultas médicas e honorários médicos de paciente internado;</li><li>vigência contratual inicial de 24 meses;</li><li>isenção de carência e CPT em contratos com 30 ou mais beneficiários, desde que a inclusão ocorra no prazo contratual;</li><li>rede divulgada no Rio com Glória D'Or, Casa de Saúde São José, Hospital Vitória, Hospital São Vicente de Paulo, Hospital Mário Lioni e Complexo Hospitalar de Niterói, além de cinco unidades Meu Doutor Novamed no Rio e em Niterói.</li></ul>",
+              "blocos": [
+                {"tipo": "opp", "label": "Oportunidade para a Marins", "texto": "produto novo e diretamente aderente ao núcleo PME da corretora. Vale montar comparativo contra opções nacionais e regionais em perfis de 3–29 e 30–199 vidas, destacando rede, reembolso, coparticipação e isenção de carências."},
+                {"tipo": "risk", "label": "Risco / checagem necessária", "texto": "confirmar na cotação a rede por município, os tetos de coparticipação, os valores de reembolso, as regras de redução de carência e o efeito do prazo inicial de 24 meses. Não foi localizada tabela pública oficial de preços nem regra pública de comissionamento."}
+              ],
+              "fonte": "Fontes: Bradesco Seguros — <a href=\"https://www.bradescoseguros.com.br/clientes/produtos/plano-saude/efetivo-plus-spg\" target=\"_blank\" rel=\"noopener\">Efetivo Plus SPG</a>; Revista Apólice, 25/09/2026 — <a href=\"https://revistaapolice.com.br/2026/09/bradesco-saude-amplia-grade-de-produtos-no-rio-de-janeiro/\" target=\"_blank\" rel=\"noopener\">Bradesco Saúde amplia grade de produtos no Rio de Janeiro</a>"
+            },
+            {
+              "subtitulo": "2.2 Qualicorp e NotreDame apresentam novas condições para adesão premium",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado com ressalvas",
+              "corpo": "<p>Em encontros com corretores em 22/09, em São Paulo, e 23/09, no Rio de Janeiro, foram apresentados os planos coletivos por adesão Advance 600, Advance 700, Premium 900 Care e Premium 900. Conforme o produto, há concierge de saúde, telemedicina, jornada digital, medicina preventiva e opções de reembolso. Para o Rio, a divulgação cita Pró-Cardíaco, Glória D'Or, Prontobaby, Casa de Saúde São José e Perinatal Laranjeiras.</p>",
+              "blocos": [
+                {"tipo": "opp", "label": "Oportunidade para a Marins", "texto": "reforço de portfólio para clientes de adesão com demanda por rede premium e reembolso, especialmente em comparação com produtos empresariais de pequena massa."},
+                {"tipo": "risk", "label": "Risco / checagem necessária", "texto": "a publicação não informa tabelas, entidades elegíveis, abrangência detalhada, regras de carência, coparticipação, vigência de campanha ou comissionamento. A equipe comercial deve validar esses itens nos canais da Qualicorp antes de ofertar ou divulgar qualquer vantagem."}
+              ],
+              "fonte": "Fonte pública: Revista Apólice, 24/09/2026 — <a href=\"https://revistaapolice.com.br/2026/09/qualicorp-apresenta-novas-condicoes-da-notredame-a-corretores/\" target=\"_blank\" rel=\"noopener\">Qualicorp apresenta novas condições da NotreDame a corretores</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "3. Condições comerciais públicas e sinais não confirmados",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "corpo": "<p style=\"margin-top:12px;\"><b>Rumores:</b> nenhum rumor relevante foi incluído. Não há base suficiente para afirmar mudanças além das informações confirmadas acima.</p>",
+              "blocos": [
+                {"tipo": "impact", "label": "Confirmado", "texto": "as condições públicas relevantes da semana concentram-se no desenho do Efetivo Plus e no anúncio do portfólio Qualicorp/NotreDame."},
+                {"tipo": "risk", "label": "Não divulgado publicamente", "texto": "não foram encontradas novas tabelas oficiais de preços, percentuais de reajuste coletivo, campanhas de redução de carência ou percentuais de comissionamento aplicáveis ao mercado do Rio nessa janela. Esses dados devem ser tratados como pendentes de material oficial do canal comercial."}
+              ],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Operacionalizar as coberturas de 1º/10:</b> atualizar scripts, FAQ e orientação aos RHs sobre RN 680 e mamografia digital, sempre observando DUT e prescrição.",
+        "<b>Cotar e comparar o Bradesco Efetivo Plus no RJ:</b> priorizar cenários de 3–29 e 30–199 vidas, validando rede real, reembolso, coparticipação, carências e impacto da vigência de 24 meses.",
+        "<b>Obter o material oficial Qualicorp/NotreDame:</b> exigir tabela, elegibilidade, carências, vigência, coparticipação e comissão antes de transformar o anúncio em campanha comercial."
+      ],
+      "criterioEditorial": "Critério editorial: fatos confirmados foram separados de propostas e lacunas de informação. Foram priorizadas fontes oficiais; imprensa setorial foi usada apenas para anúncios comerciais ainda não detalhados em páginas primárias públicas."
+    }
+  ]
+}
