@@ -22,7 +22,11 @@
               "tagLabel": "Confirmado",
               "corpo": "<p>A ANS informou em 22/09 que a RN 680/2026 atualiza a cobertura obrigatória de cinco tecnologias:</p><ul><li>anfotericina B lipossomal para leishmaniose visceral;</li><li>rituximabe para manutenção de pacientes com vasculite associada a ANCA;</li><li>adalimumabe para crianças a partir de 2 anos e adolescentes com uveíte não infecciosa ativa;</li><li>DIU/SIU hormonal, incluindo o dispositivo, para endometriose nos critérios da DUT 175;</li><li>elastografia hepática ultrassônica para colangite biliar primária com suspeita ou diagnóstico de fibrose/cirrose.</li></ul>",
               "blocos": [
-                {"tipo": "impact", "label": "Impacto para a Marins", "texto": "atualizar materiais de pós-venda e orientar clientes de que a cobertura não é irrestrita: a indicação clínica e as Diretrizes de Utilização continuam determinantes. A mudança pode gerar dúvidas e solicitações a partir de outubro; antecipar a comunicação reduz ruído e reclamações."}
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "atualizar materiais de pós-venda e orientar clientes de que a cobertura não é irrestrita: a indicação clínica e as Diretrizes de Utilização continuam determinantes. A mudança pode gerar dúvidas e solicitações a partir de outubro; antecipar a comunicação reduz ruído e reclamações."
+                }
               ],
               "fonte": "Fonte oficial: ANS, 22/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol/\" target=\"_blank\" rel=\"noopener\">ANS aprova atualização de cinco tecnologias no Rol</a>"
             },
@@ -32,7 +36,11 @@
               "tagLabel": "Confirmado",
               "corpo": "<p>A ANS retirou a restrição etária da mamografia digital. Com prescrição do médico assistente, o exame passa a ter cobertura obrigatória independentemente da idade.</p>",
               "blocos": [
-                {"tipo": "impact", "label": "Impacto para a Marins", "texto": "incluir a mudança nas comunicações de Outubro Rosa e no suporte a RHs. É uma atualização simples, de alta utilidade prática e boa oportunidade de relacionamento com clientes empresariais."}
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "incluir a mudança nas comunicações de Outubro Rosa e no suporte a RHs. É uma atualização simples, de alta utilidade prática e boa oportunidade de relacionamento com clientes empresariais."
+                }
               ],
               "fonte": "Fonte oficial: ANS, 10/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-mamografia-digital-sem-restricao-de-idade\" target=\"_blank\" rel=\"noopener\">ANS aprova mamografia digital sem restrição de idade</a>"
             },
@@ -42,7 +50,11 @@
               "tagLabel": "Proposta — ainda não é cobertura vigente",
               "corpo": "<p>Aberta em 21/09 e com contribuições até 10/10, a consulta discute a alteração da DUT 110.39 para sequenciamento completo do exoma em casos de deficiência intelectual ou atraso global do desenvolvimento neuropsicomotor de causa indeterminada.</p>",
               "blocos": [
-                {"tipo": "risk", "label": "Impacto para a Marins", "texto": "não comunicar como benefício já incorporado. O tema deve ser acompanhado porque, se aprovado, poderá ampliar cobertura de diagnóstico genético e exigir ajustes de orientação e autorização."}
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "não comunicar como benefício já incorporado. O tema deve ser acompanhado porque, se aprovado, poderá ampliar cobertura de diagnóstico genético e exigir ajustes de orientação e autorização."
+                }
               ],
               "fonte": "Fonte oficial: ANS, 21/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-176-ans-recebe-contribuicoes-para-atualizacao-do-rol/\" target=\"_blank\" rel=\"noopener\">Consulta Pública 176</a>"
             }
@@ -57,8 +69,16 @@
               "tagLabel": "Confirmado",
               "corpo": "<p>O lançamento foi divulgado em 25/09 para empresas de <b>3 a 199 vidas</b>. As condições públicas confirmadas incluem:</p><ul><li>contratação por CNPJ ou CAEPF a partir de 3 pessoas;</li><li>cobertura nacional, ambulatorial e hospitalar com obstetrícia;</li><li>acomodação em enfermaria ou quarto;</li><li>coparticipação opcional; quando contratada para grupos de 3 a 199 pessoas, há participação de 30% em consultas, pronto-socorro, exames e procedimentos definidos, além de valor fixo por internação, observados os limites da tabela;</li><li>reembolso específico para consultas médicas e honorários médicos de paciente internado;</li><li>vigência contratual inicial de 24 meses;</li><li>isenção de carência e CPT em contratos com 30 ou mais beneficiários, desde que a inclusão ocorra no prazo contratual;</li><li>rede divulgada no Rio com Glória D'Or, Casa de Saúde São José, Hospital Vitória, Hospital São Vicente de Paulo, Hospital Mário Lioni e Complexo Hospitalar de Niterói, além de cinco unidades Meu Doutor Novamed no Rio e em Niterói.</li></ul>",
               "blocos": [
-                {"tipo": "opp", "label": "Oportunidade para a Marins", "texto": "produto novo e diretamente aderente ao núcleo PME da corretora. Vale montar comparativo contra opções nacionais e regionais em perfis de 3–29 e 30–199 vidas, destacando rede, reembolso, coparticipação e isenção de carências."},
-                {"tipo": "risk", "label": "Risco / checagem necessária", "texto": "confirmar na cotação a rede por município, os tetos de coparticipação, os valores de reembolso, as regras de redução de carência e o efeito do prazo inicial de 24 meses. Não foi localizada tabela pública oficial de preços nem regra pública de comissionamento."}
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "produto novo e diretamente aderente ao núcleo PME da corretora. Vale montar comparativo contra opções nacionais e regionais em perfis de 3–29 e 30–199 vidas, destacando rede, reembolso, coparticipação e isenção de carências."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco / checagem necessária",
+                  "texto": "confirmar na cotação a rede por município, os tetos de coparticipação, os valores de reembolso, as regras de redução de carência e o efeito do prazo inicial de 24 meses. Não foi localizada tabela pública oficial de preços nem regra pública de comissionamento."
+                }
               ],
               "fonte": "Fontes: Bradesco Seguros — <a href=\"https://www.bradescoseguros.com.br/clientes/produtos/plano-saude/efetivo-plus-spg\" target=\"_blank\" rel=\"noopener\">Efetivo Plus SPG</a>; Revista Apólice, 25/09/2026 — <a href=\"https://revistaapolice.com.br/2026/09/bradesco-saude-amplia-grade-de-produtos-no-rio-de-janeiro/\" target=\"_blank\" rel=\"noopener\">Bradesco Saúde amplia grade de produtos no Rio de Janeiro</a>"
             },
@@ -68,8 +88,16 @@
               "tagLabel": "Confirmado com ressalvas",
               "corpo": "<p>Em encontros com corretores em 22/09, em São Paulo, e 23/09, no Rio de Janeiro, foram apresentados os planos coletivos por adesão Advance 600, Advance 700, Premium 900 Care e Premium 900. Conforme o produto, há concierge de saúde, telemedicina, jornada digital, medicina preventiva e opções de reembolso. Para o Rio, a divulgação cita Pró-Cardíaco, Glória D'Or, Prontobaby, Casa de Saúde São José e Perinatal Laranjeiras.</p>",
               "blocos": [
-                {"tipo": "opp", "label": "Oportunidade para a Marins", "texto": "reforço de portfólio para clientes de adesão com demanda por rede premium e reembolso, especialmente em comparação com produtos empresariais de pequena massa."},
-                {"tipo": "risk", "label": "Risco / checagem necessária", "texto": "a publicação não informa tabelas, entidades elegíveis, abrangência detalhada, regras de carência, coparticipação, vigência de campanha ou comissionamento. A equipe comercial deve validar esses itens nos canais da Qualicorp antes de ofertar ou divulgar qualquer vantagem."}
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "reforço de portfólio para clientes de adesão com demanda por rede premium e reembolso, especialmente em comparação com produtos empresariais de pequena massa."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco / checagem necessária",
+                  "texto": "a publicação não informa tabelas, entidades elegíveis, abrangência detalhada, regras de carência, coparticipação, vigência de campanha ou comissionamento. A equipe comercial deve validar esses itens nos canais da Qualicorp antes de ofertar ou divulgar qualquer vantagem."
+                }
               ],
               "fonte": "Fonte pública: Revista Apólice, 24/09/2026 — <a href=\"https://revistaapolice.com.br/2026/09/qualicorp-apresenta-novas-condicoes-da-notredame-a-corretores/\" target=\"_blank\" rel=\"noopener\">Qualicorp apresenta novas condições da NotreDame a corretores</a>"
             }
@@ -83,8 +111,16 @@
               "tag": null,
               "corpo": "<p style=\"margin-top:12px;\"><b>Rumores:</b> nenhum rumor relevante foi incluído. Não há base suficiente para afirmar mudanças além das informações confirmadas acima.</p>",
               "blocos": [
-                {"tipo": "impact", "label": "Confirmado", "texto": "as condições públicas relevantes da semana concentram-se no desenho do Efetivo Plus e no anúncio do portfólio Qualicorp/NotreDame."},
-                {"tipo": "risk", "label": "Não divulgado publicamente", "texto": "não foram encontradas novas tabelas oficiais de preços, percentuais de reajuste coletivo, campanhas de redução de carência ou percentuais de comissionamento aplicáveis ao mercado do Rio nessa janela. Esses dados devem ser tratados como pendentes de material oficial do canal comercial."}
+                {
+                  "tipo": "impact",
+                  "label": "Confirmado",
+                  "texto": "as condições públicas relevantes da semana concentram-se no desenho do Efetivo Plus e no anúncio do portfólio Qualicorp/NotreDame."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Não divulgado publicamente",
+                  "texto": "não foram encontradas novas tabelas oficiais de preços, percentuais de reajuste coletivo, campanhas de redução de carência ou percentuais de comissionamento aplicáveis ao mercado do Rio nessa janela. Esses dados devem ser tratados como pendentes de material oficial do canal comercial."
+                }
               ],
               "fonte": null
             }
@@ -97,6 +133,187 @@
         "<b>Obter o material oficial Qualicorp/NotreDame:</b> exigir tabela, elegibilidade, carências, vigência, coparticipação e comissão antes de transformar o anúncio em campanha comercial."
       ],
       "criterioEditorial": "Critério editorial: fatos confirmados foram separados de propostas e lacunas de informação. Foram priorizadas fontes oficiais; imprensa setorial foi usada apenas para anúncios comerciais ainda não detalhados em páginas primárias públicas."
+    },
+    {
+      "date": "2026-10-05",
+      "dateLabel": "05/10/2026",
+      "janela": "Janela: 28 de setembro a 4 de outubro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>As novas coberturas do Rol entraram efetivamente em vigor em 1º/10.</b> Os destaques de comunicação comercial são a mamografia digital sem restrição de idade ou gênero (quando houver indicação médica) e o DIU/SIU hormonal para endometriose nos critérios da DUT 175.",
+        "<b>A Care Plus adquiriu participação na Beep Saúde</b>, empresa carioca de vacinação, exames e infusões domiciliares. A operação reforça a integração entre plano corporativo e serviços próprios, mas ainda não houve anúncio público de novo produto ou ampliação automática de cobertura.",
+        "<b>Não foram localizadas novas condições comerciais públicas</b> para PME, adesão, odontológico ou para os planos individuais da MedSênior, Leve Saúde e Prevent Senior na janela pesquisada."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 Coberturas que passaram a valer em 1º/10",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p><b>Mamografia digital:</b> a cobertura obrigatória passou a valer sem restrição de idade ou gênero, desde que exista indicação do médico assistente. A medida alcança rastreamento, diagnóstico e acompanhamento do tratamento de câncer de mama.</p><p><b>DIU/SIU hormonal para endometriose:</b> desde 1º/10, os planos devem garantir o dispositivo e os procedimentos necessários à colocação para pacientes com endometriose que tenham contraindicação ou não adesão aos contraceptivos orais combinados, conforme a DUT 175.</p><p>Também passaram a valer as demais adequações da RN 680/2026: anfotericina B lipossomal para leishmaniose visceral; rituximabe para manutenção de vasculite associada a ANCA; adalimumabe para uveíte não infecciosa ativa em crianças a partir de 2 anos e adolescentes; e elastografia hepática ultrassônica para colangite biliar primária nos critérios definidos pela ANS.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "atualizar imediatamente scripts de atendimento e pós-venda. A comunicação deve dizer “quando houver indicação médica” e orientar sobre o critério clínico e a documentação necessária, evitando prometer autorização automática ou cobertura para contratos não sujeitos ao Rol vigente."
+                }
+              ],
+              "fonte": "Fontes oficiais: ANS, 02/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/mamografia-digital-passa-a-ter-cobertura-sem-restricao-de-idade-ou-genero/\" target=\"_blank\" rel=\"noopener\">Mamografia digital passa a ter cobertura sem restrição de idade ou gênero</a>; ANS, 01/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/planos-de-saude-passam-a-cobrir-diu-hormonal-para-tratamento-da-endometriose\" target=\"_blank\" rel=\"noopener\">Planos de saúde passam a cobrir DIU hormonal para tratamento da endometriose</a>; ANS, 22/09/2026, com vigência em 01/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol/\" target=\"_blank\" rel=\"noopener\">Atualização de cinco tecnologias no Rol</a>"
+            },
+            {
+              "subtitulo": "1.2 Tecnologias em análise — ainda não são cobertura obrigatória",
+              "tag": "proposta",
+              "tagLabel": "Proposta — ainda não é cobertura vigente",
+              "corpo": "<p>Em publicação de 28/09, a ANS informou que a Cosaúde discutiu preliminarmente cabozantinibe para determinados tumores neuroendócrinos e somatrogona para deficiência de hormônio de crescimento em crianças e adolescentes. Broncoscopia com criobiópsia e colangioscopia com litotripsia seguiram para decisão final da Diretoria Colegiada.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "apenas monitoramento. Corretores não devem apresentar essas tecnologias como coberturas já incorporadas."
+                }
+              ],
+              "fonte": "Fonte oficial: ANS, 28/09/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/cosaude-analisa-inclusao-de-tecnologias-no-rol\" target=\"_blank\" rel=\"noopener\">Cosaúde analisa inclusão de tecnologias no Rol</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME / coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 Care Plus entra no capital da Beep Saúde",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado com ressalvas",
+              "corpo": "<p>A Care Plus, do grupo Bupa, comprou uma participação da DNA Capital na Beep Saúde, especializada em vacinação, coleta de exames e infusões domiciliares. O tamanho da participação não foi divulgado. A Care Plus já mantinha parceria comercial com a Beep.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Leitura prática para a Marins",
+                  "texto": "o movimento reforça a competição por conveniência, experiência e cuidado domiciliar no mercado corporativo premium, com relevância adicional para o Rio, onde a Beep nasceu e opera. Pode abrir argumentos futuros para clientes empresariais que valorizam atendimento em casa."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Limite da informação",
+                  "texto": "não foi anunciado novo plano, nova rede, inclusão automática de serviços ou comissionamento. Até existir comunicação oficial, a equipe não deve transformar a transação em benefício comercial prometido."
+                }
+              ],
+              "fonte": "Fonte: Folha de S.Paulo/C-Level, 01/10/2026 — <a href=\"https://c-level.folha.uol.com.br/negocios/2026/10/care-plus-compra-fatia-da-beep-saude-e-amplia-aposta-no-atendimento-domiciliar.shtml\" target=\"_blank\" rel=\"noopener\">Care Plus compra fatia da Beep Saúde</a>"
+            },
+            {
+              "subtitulo": "2.2 Demais PMEs — sem mudança pública relevante",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi identificada, entre 28/09 e 04/10, nova tabela pública, reajuste, campanha, mudança de elegibilidade ou comissionamento relevante para o mercado fluminense. O Bradesco Efetivo Plus, tratado na edição anterior, permanece como lançamento recente, mas sem evolução pública adicional nesta semana.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Sem mudança pública relevante identificada na semana. Não apareceu evolução pública sobre as condições Qualicorp/NotreDame apresentadas no Rio na semana anterior. Elegibilidade, carências, vigência de campanha, coparticipação e comissionamento continuam dependendo de material oficial do canal comercial.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "evitar divulgar “nova condição” sem circular, tabela ou confirmação no portal da administradora. A oportunidade segue válida, mas exige validação operacional antes da oferta."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "4. Individual / familiar",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>MedSênior, Leve Saúde e Prevent Senior:</b> não foram localizados anúncios públicos novos, dentro da janela, sobre lançamento ou encerramento de produtos, expansão ou redução de área, alteração de rede, nova elegibilidade ou carência.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter as condições atualmente homologadas pelo canal comercial, mas checar vigência, município, acomodação e rede antes de cada proposta. “Nenhuma mudança pública encontrada” não equivale a confirmação de que todo material interno permaneceu igual."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "5. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Sem novidade pública relevante identificada na janela pesquisada. Não foi localizada nova condição comercial, reajuste, lançamento, encerramento ou campanha pública com impacto direto no Rio.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade permanente",
+                  "texto": "usar o odontológico como complemento de baixo atrito em vendas PME e individuais, desde que a proposta apresente claramente rede, cobertura, carência, dependentes e regra de cancelamento. Não usar apenas “preço baixo” como argumento."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li>Reajustes públicos novos: nenhum relevante localizado nesta semana.</li><li>Comissionamento: nenhuma informação nova encontrada em fonte pública.</li><li>Elegibilidade, carência e coparticipação: nenhuma mudança nova confirmada publicamente para os produtos monitorados.</li><li>Rede: nenhum anúncio público novo para MedSênior, Leve Saúde ou Prevent Senior no Rio durante a janela.</li><li>Rumores: nenhum rumor foi incorporado a esta edição.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Não divulgado publicamente",
+                  "texto": "os itens acima devem ser tratados como pendentes de material oficial do canal comercial — não comunicar como mudança confirmada."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "7. Técnica de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "Campanha: “Revisão de cobertura de Outubro”",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil prioritário:</b> clientes e leads com planos individuais, adesão ou PME; mulheres e famílias que valorizam prevenção; RHs de pequenas empresas; clientes insatisfeitos com falta de clareza sobre cobertura e rede.</p><p><b>Abordagem curta para WhatsApp:</b> “Olá, [nome]. Desde 1º de outubro entraram em vigor atualizações importantes de cobertura nos planos sujeitos ao Rol da ANS, incluindo mamografia digital sem limite de idade ou gênero quando houver indicação médica. Estou fazendo uma revisão gratuita de cobertura, rede e adequação para clientes da Marins. Posso verificar o seu plano?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Seu plano é individual, por adesão ou empresarial?</li><li>Quais pessoas precisam de cobertura e quais são as faixas etárias?</li><li>Em quais bairros ou municípios a rede precisa funcionar bem?</li><li>Quais hospitais, médicos ou exames são indispensáveis para você?</li><li>Qual é o mês do próximo reajuste e sua tolerância à coparticipação?</li></ul><p><b>Argumento de valor:</b> “A proposta não é trocar por trocar. Primeiro vamos verificar se o contrato atual entrega a rede e a cobertura de que você precisa. Só apresentaremos alternativa se houver ganho claro de adequação ou previsibilidade.”</p><p><b>Objeção — “Já tenho plano e não quero mexer nisso agora”:</b> “Perfeito. A revisão não obriga troca. Ela serve para você confirmar se a rede, o tipo de contratação e a cobertura ainda fazem sentido antes do próximo reajuste ou de uma necessidade de uso.”</p><p><b>Venda cruzada com odontológico:</b> depois de validar o plano médico, perguntar: “Hoje sua família ou equipe tem cobertura odontológica? Posso comparar uma opção com rede próxima e carências claras, sem alterar o plano de saúde.” Antes da oferta, confirmar cobertura, rede, carência e regra de inclusão de dependentes.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Ação comercial desta semana",
+                  "texto": "cada corretor ativo deve selecionar 15 clientes ou leads antigos e oferecer a “Revisão de cobertura de Outubro”. Meta mínima: 15 contatos, 5 diagnósticos completos e 2 comparativos enviados. O supervisor acompanha quantos diagnósticos foram efetivamente concluídos."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Atualizar os scripts e o pós-venda com as coberturas vigentes desde 1º/10</b>, preservando indicação médica, DUT e tipo de contrato.",
+        "<b>Confirmar nos canais comerciais qualquer mudança de rede</b> de MedSênior, Leve Saúde e Prevent Senior antes de divulgar; a pesquisa pública da semana não encontrou alterações.",
+        "<b>Monitorar a integração Care Plus–Beep</b> para identificar se surgirão produtos, serviços domiciliares ou argumentos comerciais oficiais para empresas do Rio."
+      ],
+      "criterioEditorial": "Critério editorial: foram priorizadas fontes oficiais e fatos publicados entre 28/09 e 04/10/2026. Quando não houve confirmação pública, a lacuna foi indicada expressamente. Inferências comerciais foram separadas de fatos confirmados."
     }
   ]
 }
