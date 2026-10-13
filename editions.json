@@ -314,6 +314,196 @@
         "<b>Monitorar a integração Care Plus–Beep</b> para identificar se surgirão produtos, serviços domiciliares ou argumentos comerciais oficiais para empresas do Rio."
       ],
       "criterioEditorial": "Critério editorial: foram priorizadas fontes oficiais e fatos publicados entre 28/09 e 04/10/2026. Quando não houve confirmação pública, a lacuna foi indicada expressamente. Inferências comerciais foram separadas de fatos confirmados."
+    },
+    {
+      "date": "2026-10-12",
+      "dateLabel": "12/10/2026",
+      "janela": "Janela: 05 a 11 de outubro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>A ANS confirmou cobertura obrigatória para colangioscopia com litotripsia</b> no tratamento de cálculos biliares complexos após falha em CPRE, com vigência a partir de 03/11/2026 — ainda não vale para uso imediato e exige atualização de atendimento e comunicação.",
+        "<b>A Qualicorp lançou campanha de cashback sobre a primeira parcela</b> para contratação de plano de saúde com CNPJ, em planos e municípios participantes, com prazo até 15/10/2026 — uma janela comercial curta que exige validação por CEP, produto e canal antes de qualquer divulgação.",
+        "<b>A MetLife anunciou benefício de saldo mensal para medicamentos</b> prescritos por dentistas da rede credenciada, válido por 12 meses em novos contratos Dental PME e Corporate elegíveis — a divulgação não detalha todos os planos, datas finais nem regras operacionais.",
+        "<b>Não foi identificada mudança pública material no período</b> em coletivo por adesão, MedSênior, Leve Saúde ou Prevent Senior; tabela, rede e condições seguem precisando de reconfirmação na data de cada proposta."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 Nova cobertura obrigatória para cálculo biliar",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado — vigência futura",
+              "corpo": "<p>Em notícia publicada em 07/10/2026, a ANS informou que aprovou em 02/10 a inclusão da <b>colangioscopia com litotripsia a laser ou eletro-hidráulica</b> para tratamento de cálculos biliares complexos. A cobertura será obrigatória a partir de <b>03/11/2026</b>, para pacientes nos quais tenha ocorrido falha no tratamento por CPRE, conforme as diretrizes definidas.</p><p><b>Segmentos afetados:</b> PME/coletivo empresarial, coletivo por adesão e individual/familiar, nos produtos sujeitos ao Rol e à segmentação assistencial aplicável.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "atualizar FAQ, treinamento de pós-venda e respostas sobre negativa/autorização. O corretor deve evitar comunicar a novidade como cobertura irrestrita para qualquer cálculo biliar ou como regra já vigente."
+                }
+              ],
+              "fonte": "Fonte: ANS, 07/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/tratamento-para-calculo-biliar-sera-coberto-pelos-planos-de-saude\" target=\"_blank\" rel=\"noopener\">Tratamento para cálculo biliar será coberto pelos planos de saúde</a>"
+            },
+            {
+              "subtitulo": "1.2 Consulta Pública 178 e Audiência Pública 70",
+              "tag": "proposta",
+              "tagLabel": "Proposta — sem efeito assistencial ou comercial imediato",
+              "corpo": "<p>A ANS abriu a Consulta Pública 178 até <b>26/10/2026</b> e realizará a Audiência Pública 70 em <b>16/10/2026</b>, com inscrição até 17h de 15/10. Estão em avaliação a somatrogona para deficiência de hormônio do crescimento em crianças e adolescentes e o levomalato de cabozantinibe para determinados tumores neuroendócrinos avançados. A recomendação preliminar foi desfavorável à incorporação.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "tema para monitoramento, sem usar em venda nem afirmar cobertura. Pode gerar dúvidas de clientes e familiares que acompanham esses tratamentos."
+                }
+              ],
+              "fonte": "Fontes: ANS, 07/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-178-ans-recebe-contribuicoes-para-atualizacao-do-rol/\" target=\"_blank\" rel=\"noopener\">Consulta Pública 178</a>; ANS, 08/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-promove-audiencia-publica-70/\" target=\"_blank\" rel=\"noopener\">Audiência Pública 70</a>"
+            },
+            {
+              "subtitulo": "1.3 Criobiópsia pulmonar aprovada em reunião, formalização pendente",
+              "tag": "confirmado",
+              "tagLabel": "Decisão colegiada confirmada — aplicação prática pendente",
+              "corpo": "<p>Na 644ª reunião da Diretoria Colegiada, divulgada em 09/10/2026, a ANS aprovou a recomendação final da UAT 201 e a proposta de resolução normativa relativa à broncoscopia com criobiópsia para suspeita de doença pulmonar intersticial.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter no radar regulatório, mas não orientar cliente como cobertura já vigente até a publicação formal e a confirmação da data de início e das diretrizes de utilização."
+                }
+              ],
+              "fonte": "Fonte: ANS, 09/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/deliberacoes-da-644a-reuniao-da-diretoria-colegiada\" target=\"_blank\" rel=\"noopener\">Deliberações da 644ª Reunião da Diretoria Colegiada</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 Qualicorp anuncia cashback com prazo até 15/10",
+              "tag": "confirmado",
+              "tagLabel": "Condição pública confirmada — elegibilidade detalhada pendente",
+              "corpo": "<p>A Qualicorp divulga campanha de <b>cashback sobre a primeira parcela</b> para contratação de plano de saúde com CNPJ, em planos e municípios participantes, até <b>15/10/2026</b>.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "trabalhar leads PME/MEI já qualificados e propostas paradas por preço de entrada. A comunicação deve dizer “sujeito a planos, municípios e regras participantes”; antes da oferta, confirmar se o Rio de Janeiro, o produto, a quantidade de vidas, a vigência e o canal da Marins estão contemplados."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco",
+                  "texto": "anunciar a campanha como desconto genérico. A oferta é apresentada como cashback, e não há na página pública o regulamento completo, o prazo de crédito nem todas as exclusões."
+                }
+              ],
+              "fonte": "Fonte: Qualicorp, página consultada em 11/10/2026 — <a href=\"https://www.qualicorp.com.br/planos-para-sua-familia/\" target=\"_blank\" rel=\"noopener\">Planos para sua família e contratação com CNPJ</a>"
+            },
+            {
+              "subtitulo": "2.2 Sinal de mercado: base empresarial segue dominante",
+              "tag": null,
+              "tagLabel": "Dado de mercado",
+              "corpo": "<p>A ANS divulgou em 05/10 o balanço de beneficiários de agosto, com crescimento tanto em planos médico-hospitalares quanto em planos exclusivamente odontológicos. Divulgação setorial baseada nesses dados indica que a ampla maioria dos vínculos médico-hospitalares está em coletivos empresariais.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "reforça a prioridade comercial em CNPJ e a necessidade de uma rotina de renovação, retenção e venda cruzada odontológica. É indicador de mercado, não alteração de produto."
+                }
+              ],
+              "fonte": "Fontes: ANS, 05/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-apresenta-balanco-de-beneficiarios-de-agosto\" target=\"_blank\" rel=\"noopener\">Balanço de beneficiários de agosto</a>; ANS, atualização de 05/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais\" target=\"_blank\" rel=\"noopener\">Dados Gerais</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
+            {
+              "subtitulo": "3.1 Coletivo por adesão: sem mudança pública material",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foram localizados novos reajustes, tabelas, campanhas, regras de elegibilidade ou encerramentos com relevância nacional ou específica para o Rio de Janeiro nas fontes públicas monitoradas no período. As páginas consultadas da Qualicorp mantêm a orientação de que disponibilidade, rede e condições variam por entidade, município e operadora.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "continuar exigindo tabela vigente, entidade elegível e rede nominal na data da proposta. Não transformar a campanha de cashback para CNPJ em argumento para adesão, porque a oferta pública encontrada é empresarial."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.2 Individual/familiar: silêncio público em MedSênior, Leve Saúde e Prevent Senior",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Entre 05 e 11/10, não foi identificado lançamento, encerramento, nova tabela pública, campanha, expansão/redução de área ou alteração de rede anunciada com data no período. As páginas públicas disponíveis repetem condições já existentes e, por isso, não foram tratadas como novidade.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter a checagem de tabela, rede, abrangência, faixa etária, carência e disponibilidade no momento da cotação, principalmente no Rio de Janeiro. A ausência de anúncio público não substitui boletins de canal ou confirmação no portal do corretor."
+                }
+              ],
+              "fonte": "Referências de monitoramento: <a href=\"https://medsenior.com.br/\" target=\"_blank\" rel=\"noopener\">MedSênior</a>; <a href=\"https://www.preventsenior.com.br/\" target=\"_blank\" rel=\"noopener\">Prevent Senior</a>; site e canais comerciais oficiais da Leve Saúde."
+            }
+          ]
+        },
+        {
+          "titulo": "4. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": "4.1 MetLife oferece saldo mensal para medicamentos em novos contratos elegíveis",
+              "tag": "confirmado",
+              "tagLabel": "Anúncio confirmado — regras completas pendentes de canais oficiais",
+              "corpo": "<p>Em 07/10/2026, foi anunciada campanha para novos contratos Dental PME e Corporate elegíveis. Titulares e dependentes terão, sem custo adicional, <b>saldo mensal via conta digital</b> para compra de medicamentos prescritos por dentistas da rede credenciada, durante os primeiros 12 meses. A operação é digital, via aplicativo.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "argumento concreto para venda cruzada em clientes empresariais que já possuem saúde e não oferecem odonto, desde que a Marins tenha acesso comercial aos produtos elegíveis. O benefício pode aumentar a percepção de utilidade, mas não deve substituir a comparação de rede, cobertura, carência e custo."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco",
+                  "texto": "a divulgação não informa todos os planos elegíveis, forma de recarga, data final, municípios, medicamentos aceitos, regras para dependentes ou efeito sobre comissão. Tudo isso deve ser confirmado no regulamento/canal comercial antes da proposta."
+                }
+              ],
+              "fonte": "Fontes: SEGS, 07/10/2026 — <a href=\"https://www.segs.com.br/seguros/456975-metlife-amplia-planos-odontologicos-com-beneficio-que-estende-cuidados-alem-do-consultorio\" target=\"_blank\" rel=\"noopener\">MetLife amplia planos odontológicos com benefício além do consultório</a>; página institucional da <a href=\"https://www.metlife.com.br/empresas/planos-odontologicos/\" target=\"_blank\" rel=\"noopener\">MetLife Dental</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>Qualicorp:</b> confirmar por escrito os produtos e municípios participantes, elegibilidade do CNPJ/MEI, canal de venda, vigência, forma e prazo do cashback, cancelamento e eventuais estornos.</li><li><b>MetLife Dental:</b> solicitar regulamento da campanha, lista de planos elegíveis, área de comercialização, regras da conta digital, medicamentos aceitos, limite por titular/dependente, data final e eventual impacto no comissionamento.</li><li><b>Comissionamento:</b> não foi localizada nova tabela pública de comissão no período para saúde ou odonto. Usar somente materiais oficiais do canal da Marins.</li><li><b>Preços e redes:</b> não foram encontradas novas tabelas públicas materialmente diferentes para os produtos individuais monitorados. Rede e valores devem ser reconfirmados na emissão da proposta.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Campanha: Odonto como porta de entrada e expansão do PME",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil prioritário:</b> empresas de 5 a 99 vidas que já possuem plano médico, mas não oferecem odontológico; clientes PME em renovação nos próximos 90 dias; e leads com CNPJ que pararam por custo inicial.</p><p><b>Gatilho de prospecção:</b> benefícios de entrada com prazo curto e crescimento da base empresarial, sem prometer disponibilidade antes da validação.</p><p><b>Abordagem curta (WhatsApp ou ligação):</b> “Olá, [nome]. Estou revisando os benefícios de empresas do seu porte para identificar melhorias sem precisar trocar o plano médico. Sua equipe já tem odontológico? Posso comparar cobertura, rede, carências e custo em 10 minutos e verificar se existe alguma condição vigente para o seu CNPJ.”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Quantos titulares e dependentes poderiam entrar no benefício?</li><li>A empresa já oferece plano médico e/ou odontológico? Quando é a próxima renovação?</li><li>Em quais bairros ou municípios os colaboradores precisam de atendimento?</li><li>Quais demandas pesam mais: prevenção, urgência, canal, prótese ou ortodontia?</li><li>A empresa pretende pagar integralmente, compartilhar o custo ou oferecer adesão voluntária?</li></ul><p><b>Argumento de valor:</b> o odontológico pode ampliar a percepção do pacote de benefícios com investimento normalmente menor que o médico; a decisão deve ser feita comparando cobertura contratual, rede próxima aos colaboradores, carências e regras de uso — benefícios promocionais entram como complemento, não como único motivo da contratação.</p><p><b>Objeção frequente — “Meu time já usa dentista particular”:</b> o atendimento particular pode continuar sendo usado; o plano cria previsibilidade para consultas e procedimentos cobertos e oferece uma alternativa de rede. Antes de recomendar, verificar se há prestadores convenientes e se as coberturas atendem ao perfil da equipe.</p><p><b>Venda cruzada:</b> abordar primeiro a base PME de saúde sem odonto. Em leads de odonto, agendar uma revisão do plano médico perto da renovação, sem condicionar uma venda à outra.</p><p><b>Ação comercial da semana:</b> cada corretor ativo deve selecionar 10 clientes PME de saúde sem odontológico, realizar ao menos 3 diagnósticos completos e emitir 2 comparativos. Para qualquer oferta Qualicorp ou MetLife, anexar ao CRM a confirmação da elegibilidade e das regras vigentes.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Preparar até o fim de outubro</b> o atendimento para a nova cobertura de litotripsia biliar, deixando claros a vigência em 03/11 e o critério de falha após CPRE.",
+        "<b>Validar imediatamente</b> as regras de cashback da Qualicorp e da campanha Dental da MetLife antes de divulgar; há prazo curto e lacunas públicas relevantes.",
+        "<b>Não vender silêncio público como estabilidade:</b> solicitar boletins atualizados de MedSênior, Leve Saúde e Prevent Senior e reconfirmar tabela e rede na data de cada proposta."
+      ],
+      "criterioEditorial": "Critério editorial: foram incluídas apenas mudanças e sinais publicados no período monitorado (05 a 11/10/2026). Não foram identificados rumores com base confiável; inferências comerciais estão explicitamente marcadas como impacto, oportunidade ou risco para a Marins."
     }
   ]
 }
