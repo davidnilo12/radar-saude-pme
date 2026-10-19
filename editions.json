@@ -504,204 +504,205 @@
         "<b>Não vender silêncio público como estabilidade:</b> solicitar boletins atualizados de MedSênior, Leve Saúde e Prevent Senior e reconfirmar tabela e rede na data de cada proposta."
       ],
       "criterioEditorial": "Critério editorial: foram incluídas apenas mudanças e sinais publicados no período monitorado (05 a 11/10/2026). Não foram identificados rumores com base confiável; inferências comerciais estão explicitamente marcadas como impacto, oportunidade ou risco para a Marins."
-    }
-  ]
-},{
-  "date": "2026-10-19",
-  "dateLabel": "19/10/2026",
-  "janela": "Janela: 12 a 18 de outubro de 2026",
-  "recorte": "Recorte: Rio de Janeiro",
-  "videoId": null,
-  "videoNarrador": null,
-  "resumoExecutivo": [
-    "<b>Alerta prioritário no Rio de Janeiro:</b> a ANS determinou a alienação da carteira da Nova Saúde em até 30 dias contados da intimação e suspendeu imediatamente a comercialização de todos os seus planos e produtos. A Marins deve bloquear novas propostas e mapear clientes ou leads ligados à operadora.",
-    "<b>Nova cobertura confirmada:</b> a broncoscopia com criobiópsia para diagnóstico de determinadas doenças pulmonares terá cobertura obrigatória a partir de 03/11/2026, conforme critério clínico definido pela ANS.",
-    "<b>Novo Decreto do SAC:</b> empresas reguladas, incluindo operadoras de planos de saúde conforme o enquadramento regulatório aplicável, deverão ampliar atendimento humano, facilitar cancelamentos e cumprir novos prazos. A norma entra em vigor 20 dias após a publicação de 13/10.",
-    "<b>Individual, adesão e odontológico:</b> não foram identificados novos preços, produtos, redes ou campanhas públicas relevantes no período para MedSênior, Leve Saúde, Prevent Senior ou operadoras odontológicas acompanhadas."
-  ],
-  "secoes": [
-    {
-      "titulo": "1. Regulação",
-      "itens": [
-        {
-          "subtitulo": "1.1 Broncoscopia com criobiópsia terá cobertura obrigatória em 03/11",
-          "tag": "confirmado",
-          "tagLabel": "Confirmado — vigência futura",
-          "corpo": "<p>A ANS publicou em 13/10/2026 a decisão de incluir no Rol a <b>broncoscopia com criobiópsia</b>, procedimento usado para obter amostras de tecido pulmonar em pacientes com suspeita de doença pulmonar intersticial.</p><p>A cobertura será obrigatória a partir de <b>03/11/2026</b> quando houver necessidade de biópsia pulmonar para diagnóstico histopatológico e a tomografia computadorizada de alta resolução for inconclusiva ou apresentar padrão indeterminado para pneumonia intersticial usual.</p><p><b>Segmentos afetados:</b> PME/coletivo empresarial, coletivo por adesão e individual/familiar, conforme a segmentação assistencial do contrato e as regras do Rol.</p>",
-          "blocos": [
-            {
-              "tipo": "impact",
-              "label": "Impacto para a Marins",
-              "texto": "atualizar o roteiro do pós-venda e orientar corretamente clientes que consultarem sobre biópsia pulmonar. A cobertura não é irrestrita e ainda não está vigente; o corretor deve mencionar a data e o critério clínico."
-            }
-          ],
-          "fonte": "Fonte: ANS, 13/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-exame-para-diagnostico-de-doencas-pulmonares/\" target=\"_blank\" rel=\"noopener\">ANS aprova exame para diagnóstico de doenças pulmonares</a>"
-        },
-        {
-          "subtitulo": "1.2 Novo Decreto do SAC altera atendimento ao consumidor",
-          "tag": "confirmado",
-          "tagLabel": "Confirmado — aplicação prática depende também de regras específicas da ANS",
-          "corpo": "<p>O Decreto nº 13.135/2026, publicado em 13/10, atualiza as regras do Serviço de Atendimento ao Consumidor para fornecedores regulados pelo Executivo Federal. Entre as principais exigências estão:</p><ul><li>atendimento humano por telefone e canais eletrônicos, das 8h às 20h, todos os dias;</li><li>pelo menos um canal eletrônico disponível 24 horas;</li><li>IA e automação permitidas, mas sem impedir o acesso a uma pessoa;</li><li>contato humano em até 20 segundos em pelo menos 80% das chamadas e, nas demais, em até cinco minutos, observadas regras específicas do regulador;</li><li>retorno da ligação interrompida em até cinco minutos, com aproveitamento do protocolo;</li><li>cancelamento disponível em todos os níveis do SAC e também nos canais usados para contratação;</li><li>resposta conclusiva a demandas não urgentes em até sete dias corridos.</li></ul><p>A norma entra em vigor 20 dias após sua publicação e revoga o Decreto nº 11.034/2022.</p>",
-          "blocos": [
-            {
-              "tipo": "impact",
-              "label": "Impacto para a Marins",
-              "texto": "preparar o atendimento para explicar direitos sem prometer solução que depende da operadora. Guardar protocolos, orientar o cliente a registrar formalmente a demanda e atualizar os roteiros de cancelamento, reclamação e escalonamento. Como a ANS pode estabelecer critérios setoriais específicos, a equipe deve acompanhar orientação complementar da Agência."
-            }
-          ],
-          "fonte": "Fontes: Ministério da Justiça e Segurança Pública, 13/10/2026 — <a href=\"https://www.gov.br/mj/pt-br/assuntos/noticias-1/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento\" target=\"_blank\" rel=\"noopener\">Novo decreto do SAC amplia proteção ao consumidor</a>; Presidência da República — <a href=\"https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13135.htm\" target=\"_blank\" rel=\"noopener\">Decreto nº 13.135/2026</a>"
-        },
-        {
-          "subtitulo": "1.3 Próximas discussões do Rol: Cosaúde em 20 e 21/10",
-          "tag": "proposta",
-          "tagLabel": "Agenda regulatória — não representa cobertura aprovada",
-          "corpo": "<p>A 56ª Reunião Técnica da Cosaúde analisará propostas relacionadas a colangiocarcinoma, insuficiência cardíaca, painel genético para câncer de pulmão, tepotinibe, câncer renal e teste de 21 genes para câncer de mama.</p>",
-          "blocos": [
-            {
-              "tipo": "risk",
-              "label": "Impacto para a Marins",
-              "texto": "manter no radar, sobretudo para dúvidas de clientes oncológicos, mas não incluir essas tecnologias como cobertura confirmada em propostas ou conteúdos comerciais."
-            }
-          ],
-          "fonte": "Fonte: ANS, 14/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-promove-56a-reuniao-tecnica-da-cosaude\" target=\"_blank\" rel=\"noopener\">56ª Reunião Técnica da Cosaúde</a>"
-        }
-      ]
     },
     {
-      "titulo": "2. PME/coletivo empresarial",
-      "itens": [
+      "date": "2026-10-19",
+      "dateLabel": "19/10/2026",
+      "janela": "Janela: 12 a 18 de outubro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>Alerta prioritário no Rio de Janeiro:</b> a ANS determinou a alienação da carteira da Nova Saúde em até 30 dias contados da intimação e suspendeu imediatamente a comercialização de todos os seus planos e produtos. A Marins deve bloquear novas propostas e mapear clientes ou leads ligados à operadora.",
+        "<b>Nova cobertura confirmada:</b> a broncoscopia com criobiópsia para diagnóstico de determinadas doenças pulmonares terá cobertura obrigatória a partir de 03/11/2026, conforme critério clínico definido pela ANS.",
+        "<b>Novo Decreto do SAC:</b> empresas reguladas, incluindo operadoras de planos de saúde conforme o enquadramento regulatório aplicável, deverão ampliar atendimento humano, facilitar cancelamentos e cumprir novos prazos. A norma entra em vigor 20 dias após a publicação de 13/10.",
+        "<b>Individual, adesão e odontológico:</b> não foram identificados novos preços, produtos, redes ou campanhas públicas relevantes no período para MedSênior, Leve Saúde, Prevent Senior ou operadoras odontológicas acompanhadas."
+      ],
+      "secoes": [
         {
-          "subtitulo": "2.1 Nova Saúde: comercialização suspensa e carteira em alienação",
-          "tag": "confirmado",
-          "tagLabel": "Confirmado e vigente desde 14/10/2026",
-          "corpo": "<p>Pela Resolução Operacional ANS nº 3.178, publicada no DOU de 14/10/2026, a Nova Saúde Operadora Integrada de Saúde Ltda. (registro ANS 42366-1) deverá promover a alienação da carteira em até 30 dias contados do recebimento da intimação. A ANS também suspendeu a comercialização de todos os planos e produtos da operadora.</p>",
-          "blocos": [
+          "titulo": "1. Regulação",
+          "itens": [
             {
-              "tipo": "risk",
-              "label": "Impacto para a Marins",
-              "texto": "interromper imediatamente cotações, propostas e divulgação de produtos Nova Saúde; identificar no CRM propostas abertas, vendas em implantação e clientes ativos; não recomendar cancelamento voluntário antes de orientação formal, pois isso pode prejudicar continuidade assistencial ou regras de portabilidade; acompanhar os comunicados da ANS e da operadora sobre a transferência da carteira; em clientes com tratamento em curso, registrar prestadores, autorizações e protocolos para apoiar a continuidade do atendimento."
+              "subtitulo": "1.1 Broncoscopia com criobiópsia terá cobertura obrigatória em 03/11",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado — vigência futura",
+              "corpo": "<p>A ANS publicou em 13/10/2026 a decisão de incluir no Rol a <b>broncoscopia com criobiópsia</b>, procedimento usado para obter amostras de tecido pulmonar em pacientes com suspeita de doença pulmonar intersticial.</p><p>A cobertura será obrigatória a partir de <b>03/11/2026</b> quando houver necessidade de biópsia pulmonar para diagnóstico histopatológico e a tomografia computadorizada de alta resolução for inconclusiva ou apresentar padrão indeterminado para pneumonia intersticial usual.</p><p><b>Segmentos afetados:</b> PME/coletivo empresarial, coletivo por adesão e individual/familiar, conforme a segmentação assistencial do contrato e as regras do Rol.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "atualizar o roteiro do pós-venda e orientar corretamente clientes que consultarem sobre biópsia pulmonar. A cobertura não é irrestrita e ainda não está vigente; o corretor deve mencionar a data e o critério clínico."
+                }
+              ],
+              "fonte": "Fonte: ANS, 13/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-exame-para-diagnostico-de-doencas-pulmonares/\" target=\"_blank\" rel=\"noopener\">ANS aprova exame para diagnóstico de doenças pulmonares</a>"
             },
             {
-              "tipo": "opp",
-              "label": "Oportunidade ética",
-              "texto": "atender clientes que procurem a Marins para entender a medida e comparar alternativas regulares, sem explorar medo ou afirmar que a assistência foi encerrada. Alienação de carteira não significa cancelamento imediato dos contratos existentes."
+              "subtitulo": "1.2 Novo Decreto do SAC altera atendimento ao consumidor",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado — aplicação prática depende também de regras específicas da ANS",
+              "corpo": "<p>O Decreto nº 13.135/2026, publicado em 13/10, atualiza as regras do Serviço de Atendimento ao Consumidor para fornecedores regulados pelo Executivo Federal. Entre as principais exigências estão:</p><ul><li>atendimento humano por telefone e canais eletrônicos, das 8h às 20h, todos os dias;</li><li>pelo menos um canal eletrônico disponível 24 horas;</li><li>IA e automação permitidas, mas sem impedir o acesso a uma pessoa;</li><li>contato humano em até 20 segundos em pelo menos 80% das chamadas e, nas demais, em até cinco minutos, observadas regras específicas do regulador;</li><li>retorno da ligação interrompida em até cinco minutos, com aproveitamento do protocolo;</li><li>cancelamento disponível em todos os níveis do SAC e também nos canais usados para contratação;</li><li>resposta conclusiva a demandas não urgentes em até sete dias corridos.</li></ul><p>A norma entra em vigor 20 dias após sua publicação e revoga o Decreto nº 11.034/2022.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "preparar o atendimento para explicar direitos sem prometer solução que depende da operadora. Guardar protocolos, orientar o cliente a registrar formalmente a demanda e atualizar os roteiros de cancelamento, reclamação e escalonamento. Como a ANS pode estabelecer critérios setoriais específicos, a equipe deve acompanhar orientação complementar da Agência."
+                }
+              ],
+              "fonte": "Fontes: Ministério da Justiça e Segurança Pública, 13/10/2026 — <a href=\"https://www.gov.br/mj/pt-br/assuntos/noticias-1/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento\" target=\"_blank\" rel=\"noopener\">Novo decreto do SAC amplia proteção ao consumidor</a>; Presidência da República — <a href=\"https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13135.htm\" target=\"_blank\" rel=\"noopener\">Decreto nº 13.135/2026</a>"
+            },
+            {
+              "subtitulo": "1.3 Próximas discussões do Rol: Cosaúde em 20 e 21/10",
+              "tag": "proposta",
+              "tagLabel": "Agenda regulatória — não representa cobertura aprovada",
+              "corpo": "<p>A 56ª Reunião Técnica da Cosaúde analisará propostas relacionadas a colangiocarcinoma, insuficiência cardíaca, painel genético para câncer de pulmão, tepotinibe, câncer renal e teste de 21 genes para câncer de mama.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter no radar, sobretudo para dúvidas de clientes oncológicos, mas não incluir essas tecnologias como cobertura confirmada em propostas ou conteúdos comerciais."
+                }
+              ],
+              "fonte": "Fonte: ANS, 14/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-promove-56a-reuniao-tecnica-da-cosaude\" target=\"_blank\" rel=\"noopener\">56ª Reunião Técnica da Cosaúde</a>"
             }
-          ],
-          "fonte": "Fonte: Diário Oficial da União, 14/10/2026 — <a href=\"https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.178-de-9-de-outubro-de-2026-738069659\" target=\"_blank\" rel=\"noopener\">Resolução Operacional ANS nº 3.178/2026</a>"
+          ]
         },
         {
-          "subtitulo": "2.2 Amplitude e Saúde Brasil entram em Direção Técnica",
-          "tag": "confirmado",
-          "tagLabel": "Confirmado",
-          "corpo": "<p>As Resoluções Operacionais nº 3.177 e 3.179 instauraram Direção Técnica na Amplitude Planos de Saúde e na Saúde Brasil Assistência Médica por anormalidades administrativas e assistenciais graves que colocam em risco a continuidade do atendimento.</p>",
-          "blocos": [
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
             {
-              "tipo": "risk",
-              "label": "Impacto para a Marins",
-              "texto": "a Direção Técnica, isoladamente, não equivale a cancelamento de carteira nem permite afirmar que toda comercialização foi suspensa. Entretanto, exige cautela: confirmar situação cadastral e comercial do produto na ANS antes de cotar, reforçar acompanhamento de autorizações e evitar promessas sobre estabilidade futura."
-            }
-          ],
-          "fonte": "Fonte: DOU de 14/10/2026, Resoluções Operacionais nº 3.177 a 3.179 — <a href=\"https://legismap.com.br/leis-e-normas/resolucoes-operacionais-ans-dou-de-14-10-2026\" target=\"_blank\" rel=\"noopener\">reprodução integral dos atos publicados</a>"
-        }
-      ]
-    },
-    {
-      "titulo": "3. Coletivo por adesão e individual/familiar",
-      "itens": [
-        {
-          "subtitulo": "3.1 Nova Saúde: suspensão também abrange ofertas por adesão",
-          "tag": "confirmado",
-          "tagLabel": "Confirmado e vigente",
-          "corpo": "<p>A suspensão determinada pela ANS abrange todos os planos e produtos da Nova Saúde, inclusive eventuais ofertas por adesão.</p>",
-          "blocos": [
+              "subtitulo": "2.1 Nova Saúde: comercialização suspensa e carteira em alienação",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado e vigente desde 14/10/2026",
+              "corpo": "<p>Pela Resolução Operacional ANS nº 3.178, publicada no DOU de 14/10/2026, a Nova Saúde Operadora Integrada de Saúde Ltda. (registro ANS 42366-1) deverá promover a alienação da carteira em até 30 dias contados do recebimento da intimação. A ANS também suspendeu a comercialização de todos os planos e produtos da operadora.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "interromper imediatamente cotações, propostas e divulgação de produtos Nova Saúde; identificar no CRM propostas abertas, vendas em implantação e clientes ativos; não recomendar cancelamento voluntário antes de orientação formal, pois isso pode prejudicar continuidade assistencial ou regras de portabilidade; acompanhar os comunicados da ANS e da operadora sobre a transferência da carteira; em clientes com tratamento em curso, registrar prestadores, autorizações e protocolos para apoiar a continuidade do atendimento."
+                },
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade ética",
+                  "texto": "atender clientes que procurem a Marins para entender a medida e comparar alternativas regulares, sem explorar medo ou afirmar que a assistência foi encerrada. Alienação de carteira não significa cancelamento imediato dos contratos existentes."
+                }
+              ],
+              "fonte": "Fonte: Diário Oficial da União, 14/10/2026 — <a href=\"https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.178-de-9-de-outubro-de-2026-738069659\" target=\"_blank\" rel=\"noopener\">Resolução Operacional ANS nº 3.178/2026</a>"
+            },
             {
-              "tipo": "risk",
-              "label": "Impacto para a Marins",
-              "texto": "remover essas opções das comparações até manifestação posterior da ANS."
+              "subtitulo": "2.2 Amplitude e Saúde Brasil entram em Direção Técnica",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>As Resoluções Operacionais nº 3.177 e 3.179 instauraram Direção Técnica na Amplitude Planos de Saúde e na Saúde Brasil Assistência Médica por anormalidades administrativas e assistenciais graves que colocam em risco a continuidade do atendimento.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "a Direção Técnica, isoladamente, não equivale a cancelamento de carteira nem permite afirmar que toda comercialização foi suspensa. Entretanto, exige cautela: confirmar situação cadastral e comercial do produto na ANS antes de cotar, reforçar acompanhamento de autorizações e evitar promessas sobre estabilidade futura."
+                }
+              ],
+              "fonte": "Fonte: DOU de 14/10/2026, Resoluções Operacionais nº 3.177 a 3.179 — <a href=\"https://legismap.com.br/leis-e-normas/resolucoes-operacionais-ans-dou-de-14-10-2026\" target=\"_blank\" rel=\"noopener\">reprodução integral dos atos publicados</a>"
             }
-          ],
-          "fonte": "Fonte: Diário Oficial da União, 14/10/2026 — <a href=\"https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.178-de-9-de-outubro-de-2026-738069659\" target=\"_blank\" rel=\"noopener\">Resolução Operacional ANS nº 3.178/2026</a>"
+          ]
         },
         {
-          "subtitulo": "3.2 Qualicorp promove Mês do Corretor",
-          "tag": null,
-          "tagLabel": "Ação institucional — sem condição comercial divulgada",
-          "corpo": "<p>Em 14/10, a administradora anunciou programação nacional do Mês do Corretor envolvendo Qualicorp, Plural Saúde e UniConsult, com ações presenciais, conteúdos e treinamentos pelo TamoJunto Corretor. No Rio de Janeiro, haverá sessão especial de cinema para profissionais homenageados. Não foram divulgados publicamente bônus de comissão, redução de carência, preços ou nova elegibilidade.</p>",
-          "blocos": [
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
             {
-              "tipo": "impact",
-              "label": "Impacto para a Marins",
-              "texto": "aproveitar treinamentos e materiais oficiais, mas não tratar a ação institucional como condição comercial para o cliente."
+              "subtitulo": "3.1 Nova Saúde: suspensão também abrange ofertas por adesão",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado e vigente",
+              "corpo": "<p>A suspensão determinada pela ANS abrange todos os planos e produtos da Nova Saúde, inclusive eventuais ofertas por adesão.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "remover essas opções das comparações até manifestação posterior da ANS."
+                }
+              ],
+              "fonte": "Fonte: Diário Oficial da União, 14/10/2026 — <a href=\"https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.178-de-9-de-outubro-de-2026-738069659\" target=\"_blank\" rel=\"noopener\">Resolução Operacional ANS nº 3.178/2026</a>"
+            },
+            {
+              "subtitulo": "3.2 Qualicorp promove Mês do Corretor",
+              "tag": null,
+              "tagLabel": "Ação institucional — sem condição comercial divulgada",
+              "corpo": "<p>Em 14/10, a administradora anunciou programação nacional do Mês do Corretor envolvendo Qualicorp, Plural Saúde e UniConsult, com ações presenciais, conteúdos e treinamentos pelo TamoJunto Corretor. No Rio de Janeiro, haverá sessão especial de cinema para profissionais homenageados. Não foram divulgados publicamente bônus de comissão, redução de carência, preços ou nova elegibilidade.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "aproveitar treinamentos e materiais oficiais, mas não tratar a ação institucional como condição comercial para o cliente."
+                }
+              ],
+              "fonte": "Fonte: CQCS, com fonte Qualicorp, 14/10/2026 — <a href=\"https://cqcs.com.br/noticia/qualicorp-promove-campanha-nacional-do-mes-do-corretor-para-mais-de-70-mil-parceiros/\" target=\"_blank\" rel=\"noopener\">Qualicorp promove campanha nacional do Mês do Corretor</a>"
+            },
+            {
+              "subtitulo": "3.3 Individual/familiar: silêncio público em MedSênior, Leve Saúde e Prevent Senior",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada alteração pública material, datada entre 12 e 18/10, em produtos, preços, rede, carências, coparticipação, faixa etária ou área de comercialização. Materiais comerciais sem data clara ou publicados por páginas de terceiros não foram aceitos como novidade.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "continuar confirmando tabela, rede nominal, elegibilidade e carências no portal/canal oficial no dia da proposta. Não usar páginas de corretores concorrentes como prova de preço ou cobertura."
+                }
+              ],
+              "fonte": "Referências monitoradas: <a href=\"https://medsenior.com.br/\" target=\"_blank\" rel=\"noopener\">MedSênior</a>; <a href=\"https://www.preventsenior.com.br/\" target=\"_blank\" rel=\"noopener\">Prevent Senior</a>; canais oficiais da Leve Saúde."
             }
-          ],
-          "fonte": "Fonte: CQCS, com fonte Qualicorp, 14/10/2026 — <a href=\"https://cqcs.com.br/noticia/qualicorp-promove-campanha-nacional-do-mes-do-corretor-para-mais-de-70-mil-parceiros/\" target=\"_blank\" rel=\"noopener\">Qualicorp promove campanha nacional do Mês do Corretor</a>"
+          ]
         },
         {
-          "subtitulo": "3.3 Individual/familiar: silêncio público em MedSênior, Leve Saúde e Prevent Senior",
-          "tag": null,
-          "tagLabel": null,
-          "corpo": "<p>Não foi localizada alteração pública material, datada entre 12 e 18/10, em produtos, preços, rede, carências, coparticipação, faixa etária ou área de comercialização. Materiais comerciais sem data clara ou publicados por páginas de terceiros não foram aceitos como novidade.</p>",
-          "blocos": [
+          "titulo": "4. Planos odontológicos",
+          "itens": [
             {
-              "tipo": "risk",
-              "label": "Impacto para a Marins",
-              "texto": "continuar confirmando tabela, rede nominal, elegibilidade e carências no portal/canal oficial no dia da proposta. Não usar páginas de corretores concorrentes como prova de preço ou cobertura."
+              "subtitulo": "4.1 Sem nova mudança comercial pública relevante no período",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foram identificados lançamentos, encerramentos, reajustes, novas tabelas, campanhas de comissão ou mudanças de rede suficientemente confirmadas nas operadoras odontológicas monitoradas.</p><p>A campanha MetLife informada no briefing anterior continua válida apenas para contratos elegíveis segundo o regulamento da companhia, mas não houve nova informação pública que justifique repeti-la.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "concentrar a venda cruzada odontológica na base PME, mas cotar somente com material vigente do canal. Não divulgar “carência zero”, implantes ou próteses sem verificar o produto específico e seu Rol ampliado."
+                }
+              ],
+              "fonte": null
             }
-          ],
-          "fonte": "Referências monitoradas: <a href=\"https://medsenior.com.br/\" target=\"_blank\" rel=\"noopener\">MedSênior</a>; <a href=\"https://www.preventsenior.com.br/\" target=\"_blank\" rel=\"noopener\">Prevent Senior</a>; canais oficiais da Leve Saúde."
-        }
-      ]
-    },
-    {
-      "titulo": "4. Planos odontológicos",
-      "itens": [
+          ]
+        },
         {
-          "subtitulo": "4.1 Sem nova mudança comercial pública relevante no período",
-          "tag": null,
-          "tagLabel": null,
-          "corpo": "<p>Não foram identificados lançamentos, encerramentos, reajustes, novas tabelas, campanhas de comissão ou mudanças de rede suficientemente confirmadas nas operadoras odontológicas monitoradas.</p><p>A campanha MetLife informada no briefing anterior continua válida apenas para contratos elegíveis segundo o regulamento da companhia, mas não houve nova informação pública que justifique repeti-la.</p>",
-          "blocos": [
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
             {
-              "tipo": "impact",
-              "label": "Impacto para a Marins",
-              "texto": "concentrar a venda cruzada odontológica na base PME, mas cotar somente com material vigente do canal. Não divulgar “carência zero”, implantes ou próteses sem verificar o produto específico e seu Rol ampliado."
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>Nova Saúde:</b> falta divulgação pública sobre a operadora adquirente da carteira, calendário de transferência, manutenção de rede e comunicação aos beneficiários. Não antecipar nomes ou datas.</li><li><b>Amplitude e Saúde Brasil:</b> Direção Técnica confirmada, mas sem anúncio público de nova tabela, comissão ou condição comercial. Consultar o registro e o produto na ANS antes de qualquer proposta.</li><li><b>PME, adesão e individual:</b> não foram localizadas novas condições públicas confiáveis de comissão, preço, redução de carência ou coparticipação na semana.</li><li><b>SAC:</b> aguardar orientação complementar da ANS e adaptações formais das operadoras antes de prometer fluxos específicos aos clientes.</li></ul>",
+              "blocos": [],
+              "fonte": null
             }
-          ],
-          "fonte": null
-        }
-      ]
-    },
-    {
-      "titulo": "5. Condições comerciais e lacunas de informação",
-      "itens": [
+          ]
+        },
         {
-          "subtitulo": null,
-          "tag": null,
-          "tagLabel": null,
-          "corpo": "<ul><li><b>Nova Saúde:</b> falta divulgação pública sobre a operadora adquirente da carteira, calendário de transferência, manutenção de rede e comunicação aos beneficiários. Não antecipar nomes ou datas.</li><li><b>Amplitude e Saúde Brasil:</b> Direção Técnica confirmada, mas sem anúncio público de nova tabela, comissão ou condição comercial. Consultar o registro e o produto na ANS antes de qualquer proposta.</li><li><b>PME, adesão e individual:</b> não foram localizadas novas condições públicas confiáveis de comissão, preço, redução de carência ou coparticipação na semana.</li><li><b>SAC:</b> aguardar orientação complementar da ANS e adaptações formais das operadoras antes de prometer fluxos específicos aos clientes.</li></ul>",
-          "blocos": [],
-          "fonte": null
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Venda consultiva de continuidade e segurança",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho prioritários:</b> clientes ativos, propostas abertas ou leads vinculados à Nova Saúde; empresas do Rio de Janeiro que valorizam continuidade de tratamento e estabilidade da rede; beneficiários que receberam mensagens confusas sobre transferência de carteira.</p><p><b>Abordagem inicial por WhatsApp ou ligação:</b> “Olá, [nome]. A ANS publicou uma medida que suspende novas vendas da Nova Saúde e determina a transferência da carteira existente. Estou verificando como isso afeta o seu contrato. Antes de cancelar ou trocar, vamos confirmar a situação, os tratamentos em curso e as alternativas oficiais para preservar sua assistência.”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>O contrato é empresarial, por adesão ou individual? Quantas pessoas estão incluídas?</li><li>Existe consulta, exame, cirurgia, internação ou tratamento contínuo já autorizado ou agendado?</li><li>Quais hospitais, laboratórios e médicos são indispensáveis para a família ou empresa?</li><li>O plano está adimplente e qual é a data de aniversário do contrato?</li><li>Você recebeu alguma comunicação formal da operadora ou administradora? Qual foi o conteúdo e a data?</li></ul><p><b>Argumento de valor:</b> “Neste momento, o maior valor da corretora é proteger a continuidade do atendimento e organizar a documentação. Só depois de confirmar as regras oficiais faz sentido comparar preço, rede e carências de uma alternativa.”</p><p><b>Objeção frequente — “Quero cancelar hoje para não correr risco”:</b> “Entendo a preocupação, mas o cancelamento voluntário pode afetar direitos e continuidade. A medida da ANS não cancela automaticamente o contrato atual. Primeiro vamos registrar a situação, conferir o comunicado oficial e avaliar a transferência ou portabilidade correta.”</p><p><b>Venda cruzada saúde + odonto:</b> em clientes afetados, resolver primeiro a continuidade do plano médico. A oferta odontológica deve ocorrer em momento separado, após estabilização da assistência, comparando rede, cobertura e carências. Não condicionar ajuda na migração à compra de outro produto.</p><p><b>Ação comercial prática da semana:</b></p><ul><li>buscar no CRM todos os registros da Nova Saúde e separar em clientes ativos, propostas emitidas e leads;</li><li>bloquear novas cotações e anúncios da operadora;</li><li>contatar 100% dos clientes ativos com roteiro informativo, registrando tratamento em curso e comunicação recebida;</li><li>abrir comparativo apenas após checar regras oficiais e anexar ao CRM a fonte usada;</li><li>supervisores auditarem até sexta-feira propostas e criativos para garantir que nenhuma oferta suspensa permaneça ativa.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
         }
-      ]
-    },
-    {
-      "titulo": "6. Técnicas de vendas da semana",
-      "itens": [
-        {
-          "subtitulo": "6.1 Venda consultiva de continuidade e segurança",
-          "tag": null,
-          "tagLabel": null,
-          "corpo": "<p><b>Perfil e gatilho prioritários:</b> clientes ativos, propostas abertas ou leads vinculados à Nova Saúde; empresas do Rio de Janeiro que valorizam continuidade de tratamento e estabilidade da rede; beneficiários que receberam mensagens confusas sobre transferência de carteira.</p><p><b>Abordagem inicial por WhatsApp ou ligação:</b> “Olá, [nome]. A ANS publicou uma medida que suspende novas vendas da Nova Saúde e determina a transferência da carteira existente. Estou verificando como isso afeta o seu contrato. Antes de cancelar ou trocar, vamos confirmar a situação, os tratamentos em curso e as alternativas oficiais para preservar sua assistência.”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>O contrato é empresarial, por adesão ou individual? Quantas pessoas estão incluídas?</li><li>Existe consulta, exame, cirurgia, internação ou tratamento contínuo já autorizado ou agendado?</li><li>Quais hospitais, laboratórios e médicos são indispensáveis para a família ou empresa?</li><li>O plano está adimplente e qual é a data de aniversário do contrato?</li><li>Você recebeu alguma comunicação formal da operadora ou administradora? Qual foi o conteúdo e a data?</li></ul><p><b>Argumento de valor:</b> “Neste momento, o maior valor da corretora é proteger a continuidade do atendimento e organizar a documentação. Só depois de confirmar as regras oficiais faz sentido comparar preço, rede e carências de uma alternativa.”</p><p><b>Objeção frequente — “Quero cancelar hoje para não correr risco”:</b> “Entendo a preocupação, mas o cancelamento voluntário pode afetar direitos e continuidade. A medida da ANS não cancela automaticamente o contrato atual. Primeiro vamos registrar a situação, conferir o comunicado oficial e avaliar a transferência ou portabilidade correta.”</p><p><b>Venda cruzada saúde + odonto:</b> em clientes afetados, resolver primeiro a continuidade do plano médico. A oferta odontológica deve ocorrer em momento separado, após estabilização da assistência, comparando rede, cobertura e carências. Não condicionar ajuda na migração à compra de outro produto.</p><p><b>Ação comercial prática da semana:</b></p><ul><li>buscar no CRM todos os registros da Nova Saúde e separar em clientes ativos, propostas emitidas e leads;</li><li>bloquear novas cotações e anúncios da operadora;</li><li>contatar 100% dos clientes ativos com roteiro informativo, registrando tratamento em curso e comunicação recebida;</li><li>abrir comparativo apenas após checar regras oficiais e anexar ao CRM a fonte usada;</li><li>supervisores auditarem até sexta-feira propostas e criativos para garantir que nenhuma oferta suspensa permaneça ativa.</li></ul>",
-          "blocos": [],
-          "fonte": null
-        }
-      ]
+      ],
+      "pontosAtencao": [
+        "<b>Nova Saúde:</b> suspender imediatamente novas vendas, mapear a carteira da Marins e não orientar cancelamento voluntário sem análise.",
+        "<b>Novembro regulatório:</b> preparar o pós-venda para a criobiópsia obrigatória em 03/11 e para as novas regras de SAC no início do mês.",
+        "<b>Evitar informação não confirmada:</b> não anunciar comprador da carteira, manutenção de rede, preços, carências ou comissões até publicação oficial."
+      ],
+      "criterioEditorial": "Critério editorial: foram incluídas apenas mudanças publicadas entre 12 e 18/10/2026 ou evoluções materiais de assuntos já monitorados. Rumores e páginas comerciais sem fonte verificável foram excluídos."
     }
-  ],
-  "pontosAtencao": [
-    "<b>Nova Saúde:</b> suspender imediatamente novas vendas, mapear a carteira da Marins e não orientar cancelamento voluntário sem análise.",
-    "<b>Novembro regulatório:</b> preparar o pós-venda para a criobiópsia obrigatória em 03/11 e para as novas regras de SAC no início do mês.",
-    "<b>Evitar informação não confirmada:</b> não anunciar comprador da carteira, manutenção de rede, preços, carências ou comissões até publicação oficial."
-  ],
-  "criterioEditorial": "Critério editorial: foram incluídas apenas mudanças publicadas entre 12 e 18/10/2026 ou evoluções materiais de assuntos já monitorados. Rumores e páginas comerciais sem fonte verificável foram excluídos."
+  ]
 }
