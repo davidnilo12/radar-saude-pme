@@ -703,6 +703,199 @@
         "<b>Evitar informação não confirmada:</b> não anunciar comprador da carteira, manutenção de rede, preços, carências ou comissões até publicação oficial."
       ],
       "criterioEditorial": "Critério editorial: foram incluídas apenas mudanças publicadas entre 12 e 18/10/2026 ou evoluções materiais de assuntos já monitorados. Rumores e páginas comerciais sem fonte verificável foram excluídos."
+    },
+    {
+      "date": "2026-10-26",
+      "dateLabel": "26/10/2026",
+      "janela": "Janela: 19 a 25 de outubro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>Regulação:</b> a ANS abriu em 23/10 a Consulta Pública 179, propondo critério mais rigoroso de avaliação para operadoras médico-hospitalares e o fim da suspensão temporária de vendas, no fluxo regular do monitoramento, para operadoras exclusivamente odontológicas. É proposta em consulta, não regra vigente.",
+        "<b>PME/premium no Rio:</b> a NotreDame Saúde iniciou em 21/10 a comercialização, em São Paulo e no Rio de Janeiro, de seis planos premium — Prata, Prata Max, Ouro, Ouro Max, Diamante e Diamante Max. Os materiais públicos ainda não detalham preços, elegibilidade por porte, coparticipação, rede completa do Rio ou comissionamento.",
+        "<b>Individual/familiar:</b> a MedSênior ampliou de forma relevante o hospital da Barra da Tijuca, elevando os leitos de 31 para 89 e os de UTI de 10 para 28, além de integrar centro cirúrgico, diagnóstico e oftalmologia — argumento assistencial forte para o público 49+ no Rio.",
+        "<b>Sem novidade comercial pública relevante</b> na janela para coletivo por adesão, Leve Saúde, Prevent Senior no Rio ou planos odontológicos, e nenhum comprador, cronograma de transferência ou desdobramento oficial novo para a carteira da Nova Saúde."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 ANS abre Consulta Pública 179 sobre o Monitoramento da Garantia de Atendimento",
+              "tag": "proposta",
+              "tagLabel": "Proposta em consulta pública — sem mudança imediata da regra",
+              "corpo": "<p>Em 23/10/2026, a ANS abriu a <b>Consulta Pública 179</b>, com contribuições até 07/12/2026. O monitoramento utiliza reclamações não resolvidas sobre descumprimento de prazos máximos de consultas, exames e cirurgias, além de negativas de cobertura. A proposta preserva a classificação das operadoras nas Faixas 0 a 3, a reincidência para quem permanece na Faixa 3 por dois períodos e o número mínimo de reclamações para avaliação.</p><p>As mudanças propostas são:</p><ul><li><b>Médico-hospitalares:</b> considerar se o resultado está muito pior que o das demais operadoras ou se piorou por dois períodos seguidos.</li><li><b>Exclusivamente odontológicas:</b> não aplicar, no fluxo regular do monitoramento, a suspensão temporária da venda de planos. A ANS ressalta que essas operadoras continuariam monitoradas e poderiam sofrer atuação regulatória diante de aumento de reclamações ou risco assistencial.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "reforçar a análise de qualidade e reclamações antes de recomendar uma operadora, especialmente em substituições de carteira. A corretora pode organizar evidências de dificuldade de acesso relatadas por clientes e, se entender pertinente, contribuir para a consulta. No odonto, não comunicar “afrouxamento da fiscalização”: trata-se apenas de uma proposta sobre uma consequência administrativa específica."
+                }
+              ],
+              "fonte": "Fonte: ANS, 23/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-179-ans-recebe-contribuicoes-sobre-o-monitoramento-da-garantia-de-atendimento\" target=\"_blank\" rel=\"noopener\">Consulta Pública 179</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 NotreDame Saúde lança seis opções premium com venda no Rio",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado — enquadramento por modalidade e porte ainda não publicado",
+              "corpo": "<p>A nova linha reúne <b>Prata, Prata Max, Ouro, Ouro Max, Diamante e Diamante Max</b>. O lançamento ocorreu em 20/10, com início das vendas em 21/10 nos mercados de São Paulo e Rio de Janeiro. Segundo a divulgação, as configurações variam em rede credenciada, reembolso e serviços adicionais:</p><ul><li>Prata e Prata Max: foco em equilíbrio e conveniência;</li><li>Ouro e Ouro Max: maior liberdade de escolha e assistência em viagem nacional e internacional;</li><li>Diamante e Diamante Max: topo da linha, com concierge exclusivo.</li></ul><p>A divulgação também cita acomodação em apartamento, atendimento digital, telemedicina, suporte a agendamentos e, conforme produto e condições, coleta domiciliar e vacinas. A rede completa varia por plano e localidade; nenhum hospital deve ser prometido sem consulta à versão vigente do material oficial para o Rio.</p><p>A operadora informou ainda a continuidade das campanhas <b>Vendeu, Ganhou</b> e <b>Conquista Premiada</b>, mas critérios, prêmios, vigência e elegibilidade não foram publicados na reportagem; devem ser obtidos com o canal comercial antes de qualquer projeção de remuneração.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "reabrir conversas com PMEs que desejam rede premium, reembolso ou melhor experiência executiva, especialmente contratos a 60–120 dias da renovação."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco",
+                  "texto": "vender pela marca ou por hospitais mencionados genericamente, sem validar o produto específico, o município, o registro e a rede vigente."
+                }
+              ],
+              "fonte": "Fontes: NotreDame Saúde, página institucional consultada em 26/10/2026 — <a href=\"https://lp.notredame.com.br/institucional\" target=\"_blank\" rel=\"noopener\">linha premium</a>; SEGS, 21/10/2026 — <a href=\"https://www.segs.com.br/seguros/457811-notredame-saude-amplia-portfolio-de-produtos-para-o-segmento-premium\" target=\"_blank\" rel=\"noopener\">detalhes do portfólio</a>; Revista Apólice, 23/10/2026 — <a href=\"https://revistaapolice.com.br/2026/10/notredame-apresenta-novos-planos-a-12-mil-corretores/\" target=\"_blank\" rel=\"noopener\">lançamento ao canal corretor</a>"
+            },
+            {
+              "subtitulo": "2.2 Nova Saúde: sem evolução pública confirmada na semana",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Após a determinação da ANS, publicada em 14/10, para alienação da carteira e suspensão da comercialização, não foi localizado entre 19 e 25/10 anúncio oficial de comprador, calendário de transferência ou orientação adicional aos beneficiários. O site da operadora continua acessível, mas isso não altera a proibição de novas vendas.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter bloqueio comercial, acompanhar clientes já ativos, registrar protocolos assistenciais e evitar recomendar migração sem análise individual de rede, carências e regras de portabilidade."
+                }
+              ],
+              "fonte": "Fonte de referência do ato vigente: Diário Oficial da União, Resolução Operacional ANS nº 3.178, publicada em 14/10/2026 — <a href=\"https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.178-de-9-de-outubro-de-2026-738069659\" target=\"_blank\" rel=\"noopener\">texto integral</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
+            {
+              "subtitulo": "3.1 Coletivo por adesão: sem novidade pública relevante",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada, na janela de apuração, mudança pública relevante e confirmada de produto, elegibilidade, tabela, reajuste, rede, campanha ou comissionamento das principais administradoras.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "não reproduzir tabelas ou condições recebidas informalmente sem data, entidade de classe, área de comercialização e validação no portal do canal corretor."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.2 MedSênior amplia estrutura hospitalar na Barra da Tijuca",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>Em comunicado de 22/10/2026, a MedSênior informou investimento relevante na ampliação do hospital da Barra da Tijuca. A área dobrou para 6,5 mil m²; os leitos passaram de 31 para 89, e os leitos de UTI, de 10 para 28. A estrutura reúne apartamentos, enfermarias, acomodações da categoria Black, recuperação cirúrgica, centro cirúrgico e centros de diagnóstico e oftalmologia. A operadora declara foco no público a partir de 49 anos.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "argumento assistencial forte para clientes 49+ da Barra, Recreio, Jacarepaguá e adjacências que valorizem rede própria e integração de cuidado. A expansão reduz o risco percebido de capacidade, mas não autoriza prometer disponibilidade imediata de leito, cobertura de todo procedimento ou acesso da categoria Black a qualquer produto. Confirmar registro, acomodação, abrangência, rede e carências da proposta específica."
+                }
+              ],
+              "fonte": "Fonte: MedSênior, 22/10/2026 — <a href=\"https://medsenior.com.br/noticia/medsenior-amplia-hospital-da-barra-da-tijuca-e-quase-triplica-numero-de-leitos-de-internacao-no-rio-de-janeiro/\" target=\"_blank\" rel=\"noopener\">comunicado oficial da expansão</a>"
+            },
+            {
+              "subtitulo": "3.3 Prevent Senior e Leve Saúde: sem mudança pública confirmada",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi identificada, entre 19 e 25/10, mudança pública confirmada de preços, elegibilidade, carências, área de comercialização ou rede no Rio para Prevent Senior ou Leve Saúde. A Prevent Senior publicou alterações operacionais em unidades de São Paulo, mas sem efeito comercial direto para o mercado fluminense.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "não há base, nesta semana, para alterar o discurso de oferta dessas marcas no Rio."
+                }
+              ],
+              "fonte": "Referências monitoradas: <a href=\"https://medsenior.com.br/\" target=\"_blank\" rel=\"noopener\">MedSênior</a>; <a href=\"https://www.preventsenior.com.br/\" target=\"_blank\" rel=\"noopener\">Prevent Senior</a>; canais oficiais da Leve Saúde."
+            }
+          ]
+        },
+        {
+          "titulo": "4. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": "4.1 Proposta da ANS sobre suspensão de vendas no odonto ainda em consulta",
+              "tag": "proposta",
+              "tagLabel": "Proposta — ainda não entrou em vigor",
+              "corpo": "<p>A principal novidade do período é regulatória e ainda está em consulta: a proposta da ANS de não aplicar às operadoras exclusivamente odontológicas, no fluxo regular do Monitoramento da Garantia de Atendimento, a suspensão temporária de vendas. A proposta não elimina monitoramento, fiscalização ou risco de medidas em situações específicas.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "não comunicar a clientes como “afrouxamento da fiscalização”; trata-se de proposta em consulta pública sobre uma consequência administrativa específica."
+                }
+              ],
+              "fonte": "Fonte: ANS, 23/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-179-ans-recebe-contribuicoes-sobre-o-monitoramento-da-garantia-de-atendimento\" target=\"_blank\" rel=\"noopener\">Consulta Pública 179</a>"
+            },
+            {
+              "subtitulo": "4.2 Sem novidade comercial pública relevante no período",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada novidade comercial pública relevante na semana sobre preços, carências, redes, elegibilidade, reajustes, produtos ou comissionamento odontológico.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "a oportunidade continua sendo venda cruzada baseada em necessidade real, sem apresentar o odonto como “incluso” quando for contrato separado."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>NotreDame Saúde:</b> faltam, em fonte pública, tabela de preços do Rio, quantidade mínima de vidas, CNAE/porte elegível, coparticipação, registros ANS por produto, rede nominal completa por plano, limites de reembolso, carências, redução de carências, vigência, comissão e regras das campanhas. Confirmar tudo no material oficial do canal antes da cotação.</li><li><b>MedSênior:</b> a expansão física está confirmada; não foi anunciada mudança de preço, carência, elegibilidade ou comissão. Validar quais produtos do Rio acessam cada acomodação e serviço.</li><li><b>Nova Saúde:</b> não há comprador ou cronograma oficial novo divulgado. Não tratar rumores de mercado como fato.</li><li><b>Adesão e odonto:</b> ausência de atualização pública não significa manutenção automática das condições internas; checar circulares e portais autenticados antes de emitir proposta.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Auditoria premium para PME no Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> empresas com contrato a 60–120 dias da renovação, insatisfação com rede/reembolso ou necessidade de benefício executivo. Aplicar somente após confirmar que o porte e a modalidade são elegíveis à nova linha NotreDame.</p><p><b>Abordagem curta:</b> “Olá, [nome]. Surgiu uma nova linha premium da NotreDame Saúde no Rio, com opções que variam em rede e reembolso. Antes de falar em preço, quero entender o que sua equipe realmente usa. Posso comparar rede, reembolso, coparticipação e custo total com o contrato atual?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Quantas vidas estão no contrato, quais as faixas etárias e quando ocorre a renovação?</li><li>Quais hospitais, laboratórios e regiões do Rio são indispensáveis?</li><li>Existe uso recorrente de médicos fora da rede ou necessidade de reembolso?</li><li>Qual é a tolerância da empresa e dos colaboradores à coparticipação?</li><li>Há tratamentos em curso que exigem continuidade de prestadores?</li></ul><p><b>Argumento de valor:</b> “A nova linha cria mais níveis de escolha. O ganho não é ter o produto mais caro, e sim encontrar a combinação de rede, reembolso e serviços que reduz lacunas sem elevar o custo desnecessariamente.”</p><p><b>Objeção — “Premium sempre fica caro”:</b> “Premium não é um único pacote. Vamos comparar cada configuração e o custo total com o uso real da empresa; só apresento a opção depois de validar rede e condições.”</p><p><b>Venda cruzada:</b> depois de fechar o diagnóstico de saúde, mapear se a empresa oferece odonto e comparar contratação separada. Não afirmar que o odonto está incluído na nova linha.</p><p><b>Ação da semana:</b> selecionar 10 clientes PME com renovação em até 120 dias, solicitar o kit oficial do Rio à NotreDame e só então montar uma matriz com rede, reembolso, coparticipação e preço.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.2 Conversa consultiva com o público 49+ no Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> cliente 49+ que mora ou circula pela Zona Oeste e valoriza rede própria, internação, diagnóstico e acompanhamento integrado.</p><p><b>Abordagem curta:</b> “A MedSênior ampliou o hospital da Barra, inclusive internação e UTI. Posso verificar se essa estrutura faz sentido para sua rotina e comparar com a rede do seu plano atual, sem compromisso?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Em que bairro o cliente mora e onde prefere ser atendido?</li><li>Quais especialidades, exames e hospitais usa hoje?</li><li>Há tratamento contínuo ou médico que não pode ser interrompido?</li><li>Prefere enfermaria ou apartamento e qual orçamento mensal é sustentável?</li><li>Há plano atual e possibilidade de portabilidade ou redução de carência?</li></ul><p><b>Argumento de valor:</b> “A ampliação concentra mais etapas do cuidado na mesma unidade, o que pode facilitar a jornada. Precisamos confirmar, no produto cotado, quais serviços e acomodações estão efetivamente disponíveis.”</p><p><b>Objeção — “Rede própria me prende a um lugar só”:</b> “A rede própria pode facilitar integração, mas a decisão depende da sua mobilidade e dos prestadores importantes. Vamos verificar toda a rede do produto, não apenas o hospital da Barra.”</p><p><b>Venda cruzada:</b> oferecer diagnóstico odontológico separado para prevenção e previsibilidade de gastos, confirmando rede próxima à residência e carências.</p><p><b>Ação da semana:</b> revisar leads 49+ da Barra, Recreio, Jacarepaguá e adjacências e realizar cinco diagnósticos completos antes de cotar.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Obter o material oficial da NotreDame para o Rio</b> antes de divulgar rede, preço, reembolso, elegibilidade ou comissão da nova linha premium.",
+        "<b>Transformar a expansão da MedSênior na Barra em prospecção consultiva 49+</b>, sem prometer acesso ou cobertura além do produto contratado.",
+        "<b>Acompanhar a Consulta Pública 179 e a Nova Saúde:</b> a primeira pode mudar critérios de suspensão de vendas; a segunda ainda não tem comprador ou calendário público confirmado."
+      ],
+      "criterioEditorial": "Critério editorial: foram incluídos apenas fatos confirmados em fontes públicas e evoluções relevantes da semana. Não foram incorporados rumores de mercado."
     }
   ]
 }
