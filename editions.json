@@ -896,6 +896,232 @@
         "<b>Acompanhar a Consulta Pública 179 e a Nova Saúde:</b> a primeira pode mudar critérios de suspensão de vendas; a segunda ainda não tem comprador ou calendário público confirmado."
       ],
       "criterioEditorial": "Critério editorial: foram incluídos apenas fatos confirmados em fontes públicas e evoluções relevantes da semana. Não foram incorporados rumores de mercado."
+    },
+    {
+      "date": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "janela": "Janela: 26 de outubro a 1º de novembro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>MedSênior reduzirá a rede hospitalar de determinados produtos no Rio a partir de 30/11:</b> serão encerradas internações clínicas e cirúrgicas na Casa de Saúde Nossa Senhora do Carmo (Campo Grande), para as categorias Apartamento e Enfermaria, e no CHN (Niterói), para a categoria Apartamento. Produtos Infinite e Black indicados nominalmente no comunicado são preservados, e a operadora apresenta hospitais alternativos.",
+        "<b>Prevent Senior ampliou a rede credenciada no Rio</b>, com novos prestadores em cirurgia geral, dermatologia, oftalmologia, cardiologia, pneumologia, neurologia, urologia, clínica médica e atendimento generalista, distribuídos por diferentes bairros.",
+        "<b>O mercado PME está ficando mais pulverizado:</b> estudo do IESS divulgado em outubro mostra que os planos empresariais concentram a maior parte dos vínculos médico-hospitalares e que o número de empresas contratantes cresceu bem mais rápido que o número de beneficiários entre 2020 e 2025 — movimento que favorece a prospecção de micro e pequenas empresas, mas exige disciplina na análise de elegibilidade e coparticipação.",
+        "<b>Hapvida +Odonto passou a comunicar biometria facial obrigatória</b> no atendimento, com validação antes e depois da consulta no equipamento do dentista, para identificação e prevenção de fraude — mudança operacional que deve ser explicada no pós-venda.",
+        "<b>Sem novas tabelas públicas relevantes</b> de preço, comissão ou carência para adesão, Leve Saúde ou os planos odontológicos pesquisados na janela. A campanha de cashback da Qualicorp para CNPJ tinha vigência até 31/10 e não foi encontrada extensão oficial; não deve continuar sendo anunciada sem nova circular."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 Duas coberturas entram em vigor em 03/11",
+              "tag": "confirmado",
+              "tagLabel": "Implementação de decisão já anunciada",
+              "corpo": "<p>A partir de 03/11/2026, passam a ter cobertura obrigatória, dentro das respectivas Diretrizes de Utilização e da segmentação contratada:</p><ul><li><b>broncoscopia com criobiópsia</b> para pacientes com suspeita de doença pulmonar intersticial, quando a tomografia de alta resolução for inconclusiva ou apresentar padrão indeterminado nos critérios definidos pela ANS;</li><li><b>colangioscopia peroral com litotripsia a laser ou eletro-hidráulica</b> para cálculos biliares complexos, após falha do tratamento convencional indicado na norma.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "a equipe deve conhecer a vigência para orientar clientes e registrar protocolos em caso de negativa, sem afirmar que qualquer caso clínico está automaticamente coberto. A análise depende da indicação médica, do contrato e da diretriz aplicável."
+                }
+              ],
+              "fonte": "Fontes: ANS, comunicado atualizado em 26/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/periodo-eleitoral/ans-aprova-exame-para-diagnostico-de-doencas-pulmonares\" target=\"_blank\" rel=\"noopener\">broncoscopia com criobiópsia</a>; ANS, RN nº 681/2026 e documentos da Audiência Pública 68 — <a href=\"https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/audiencias-publicas/audiencia-publica-no-68\" target=\"_blank\" rel=\"noopener\">colangioscopia para cálculos biliares complexos</a>"
+            },
+            {
+              "subtitulo": "1.2 Consulta Pública 179: sem nova deliberação",
+              "tag": "proposta",
+              "tagLabel": "Proposta em consulta — sem mudança desde o briefing anterior",
+              "corpo": "<p>Não houve nova deliberação desde o briefing anterior. A proposta sobre o Monitoramento da Garantia de Atendimento continua em consulta até 07/12/2026. As alterações discutidas, inclusive a proposta específica para operadoras exclusivamente odontológicas, ainda não são regra vigente.</p>",
+              "blocos": [],
+              "fonte": "Fonte: ANS, 23/10/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/consulta-publica-179-ans-recebe-contribuicoes-sobre-o-monitoramento-da-garantia-de-atendimento\" target=\"_blank\" rel=\"noopener\">Consulta Pública 179</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 Contratos menores ganham peso no mercado empresarial",
+              "tag": "confirmado",
+              "tagLabel": "Estudo técnico confirmado",
+              "corpo": "<p>O IESS publicou em outubro o estudo “Trabalho em transformação: reflexões sobre emprego, novas formas de ocupação e saúde suplementar”. Os planos empresariais representam a maior parte dos vínculos médico-hospitalares do país. Entre 2020 e 2025, o número de empresas contratantes cresceu bem mais rápido que o número de beneficiários, demonstrando redução do tamanho médio dos grupos.</p><p>O estudo também mostra que a participação dos beneficiários em contratos com menos de 30 vidas aumentou de forma expressiva entre 2014 e maio de 2026, e que a grande maioria dos contratantes classificados por porte em 2025 tinha poucos vínculos, embora representasse uma fatia menor do total de beneficiários.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "o nicho de micro-PME e empresas familiares está estruturalmente maior. Isso reforça campanhas voltadas a MEI, profissionais com CNPJ, pequenos escritórios, clínicas, comércio e prestadores de serviços. É uma inferência comercial baseada nos dados — o estudo não afirma que todo crescimento decorre de MEI nem substitui as regras de cada operadora."
+                },
+                {
+                  "tipo": "risk",
+                  "label": "Risco",
+                  "texto": "transformar o dado em promessa genérica de aceitação “a partir de uma vida”. Quantidade mínima, tempo de CNPJ, vínculo, CNAE, documentação e inclusão de dependentes variam por produto."
+                }
+              ],
+              "fonte": "Fonte primária: IESS, outubro de 2026 — <a href=\"https://www.iess.org.br/biblioteca/tds-e-estudos/textos-para-discussao/td-125-trabalho-em-transformacao-reflexoes-sobre\" target=\"_blank\" rel=\"noopener\">TD 125</a>"
+            },
+            {
+              "subtitulo": "2.2 NotreDame Saúde e Nova Saúde: sem evolução comercial oficial nova",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada nova tabela pública do Rio para a linha premium NotreDame lançada na semana anterior. Continuam pendentes, em fonte aberta, elegibilidade por porte, coparticipação, rede completa por produto, reembolso e comissionamento. Também não foi localizado anúncio oficial de comprador ou cronograma de transferência da carteira da Nova Saúde.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "manter a NotreDame como oportunidade condicionada ao material vigente do canal corretor e continuar bloqueando novas vendas da Nova Saúde."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
+            {
+              "subtitulo": "3.1 MedSênior: produtos Infinite e Black de adesão aparecem preservados nos hospitais alterados",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>O comunicado da MedSênior lista os produtos <b>Infinite Adesão</b> e diferentes registros do <b>Black Adesão</b> entre os que continuam com urgência, emergência e internação na Casa de Saúde Nossa Senhora do Carmo e no CHN. A alteração, porém, afeta outras categorias e não deve ser resumida apenas pela modalidade de contratação.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "revisar pelo número de registro ANS, e não apenas pelo nome comercial. Clientes de adesão que tenham esses hospitais como referência devem receber confirmação individual no guia médico atualizado antes de qualquer orientação."
+                }
+              ],
+              "fonte": "Fonte: MedSênior, 30/10/2026 — <a href=\"https://medsenior.com.br/noticia/rede-credenciada-rio-de-janeiro-30-11-2026/\" target=\"_blank\" rel=\"noopener\">alterações de rede no Rio</a>"
+            },
+            {
+              "subtitulo": "3.2 Coletivo por adesão: cashback da Qualicorp encerrado, sem outra novidade pública",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada nova condição pública relevante de tabela, campanha, elegibilidade ou comissão das principais administradoras. A campanha de cashback da Qualicorp para CNPJ tinha vigência publicada até 31/10/2026; sem extensão oficial localizada, deve ser tratada como encerrada.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "retirar o argumento da campanha encerrada dos roteiros comerciais até que uma nova condição seja publicada oficialmente."
+                }
+              ],
+              "fonte": "Fonte: Qualicorp, página consultada em 02/11/2026 — <a href=\"https://www.qualicorp.com.br/planos-para-empresa/\" target=\"_blank\" rel=\"noopener\">condição com prazo publicado até 31/10</a>"
+            },
+            {
+              "subtitulo": "3.3 MedSênior: redução de internações em Campo Grande e Niterói a partir de 30/11",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado — segmentos individual/familiar, empresarial e adesão",
+              "corpo": "<p>A MedSênior comunicou em 30/10 que, a partir de 30/11/2026:</p><ul><li><b>Casa de Saúde Nossa Senhora do Carmo, Campo Grande:</b> serão encerradas internações clínicas e cirúrgicas para determinados planos das categorias Apartamento e Enfermaria. Produtos Infinite e Black listados no comunicado permanecem com pronto-socorro e internação.</li><li><b>CHN – Complexo Hospitalar de Niterói:</b> serão encerradas internações clínicas e cirúrgicas para determinados planos da categoria Apartamento. Os produtos Infinite e Black indicados permanecem com pronto-socorro e internação.</li></ul><p>A operadora lista alternativas na rede, entre elas unidades próprias em Botafogo e Barra da Tijuca e hospitais credenciados, com acesso variável conforme o produto. O aviso também informa que, nos casos enquadrados na RN 585, o beneficiário pode solicitar portabilidade por alteração de rede em até 180 dias contados do descredenciamento, independentemente do prazo de permanência.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "esta é a ação operacional mais urgente da semana. A corretora deve identificar clientes MedSênior que usam Campo Grande ou Niterói, conferir o registro do plano e apresentar alternativas reais. O risco é dizer que “o hospital saiu da rede” para todos os produtos — isso seria incorreto."
+                }
+              ],
+              "fonte": "Fonte oficial: MedSênior, 30/10/2026 — <a href=\"https://medsenior.com.br/noticia/rede-credenciada-rio-de-janeiro-30-11-2026/\" target=\"_blank\" rel=\"noopener\">comunicado de rede credenciada</a>"
+            },
+            {
+              "subtitulo": "3.4 Prevent Senior amplia rede ambulatorial no Rio",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado — individual/familiar adulto+",
+              "corpo": "<p>Em 29/10, a Prevent Senior anunciou novos prestadores no Rio para cirurgia geral, dermatologia, oftalmologia, cardiologia, pneumologia, neurologia, urologia, clínica médica e atendimento generalista. O comunicado cita opções em bairros como Copacabana, Botafogo, Ipanema, Vila Isabel, Flamengo, Centro, Realengo, Barra da Tijuca, Campo Grande, Méier, Santa Cruz, Madureira, Engenho de Dentro e Leblon.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "a ampliação reduz objeções relacionadas a deslocamento e disponibilidade de especialistas, especialmente nas zonas Oeste, Norte e Sul. Não houve anúncio de novo produto ou condição de carência; a venda deve usar somente os prestadores que aparecerem no orientador de rede do produto cotado."
+                }
+              ],
+              "fonte": "Fonte oficial: Prevent Senior, 29/10/2026 — <a href=\"https://www.preventsenior.com.br/blog/prevent-senior-amplia-rede-credenciada-no-rio-de-janeiro\" target=\"_blank\" rel=\"noopener\">ampliação da rede no Rio</a>"
+            },
+            {
+              "subtitulo": "3.5 Leve Saúde: sem mudança pública confirmada",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada, na janela, mudança pública confirmada de produto, elegibilidade, faixa etária, carência, coparticipação ou rede da Leve Saúde. As páginas comerciais continuam exibindo produtos e benefício odontológico para linhas específicas, mas não há evidência pública de que essas condições tenham sido alteradas nesta semana.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "4. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": "4.1 Hapvida +Odonto comunica biometria facial obrigatória no atendimento",
+              "tag": "confirmado",
+              "tagLabel": "Comunicado oficial — 28/10/2026",
+              "corpo": "<p>A operadora informa que a biometria facial é obrigatória e deve ser validada antes e depois da consulta no equipamento homologado do dentista. A justificativa é confirmar a identidade, registrar a prestação do serviço e prevenir fraudes. Segundo o comunicado, a imagem não fica salva no celular do credenciado e os dados biométricos são tratados no ambiente da operadora.</p><p><b>Lacuna:</b> o comunicado não informa uma data específica de início, lista de produtos ou procedimento alternativo claramente definido para quem não conseguir realizar a validação. O corretor deve orientar o cliente a consultar os canais oficiais em casos de acessibilidade, impossibilidade técnica ou recusa.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "incluir a biometria no roteiro de boas-vindas e pós-venda para reduzir surpresa no consultório. Não vender o recurso como benefício clínico; ele é um mecanismo de identificação e prevenção de fraude."
+                }
+              ],
+              "fonte": "Fonte oficial: Hapvida +Odonto, 28/10/2026 — <a href=\"https://www2.hapvida.com.br/maisodonto/noticias/biometria-facial-seguranca-e-tecnologia-aliadas-ao-seu-sorriso\" target=\"_blank\" rel=\"noopener\">Biometria Facial no Odonto</a>"
+            },
+            {
+              "subtitulo": "4.2 Sem novidade comercial pública relevante no período",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foram encontradas novas condições públicas relevantes de carência, rede, comissão ou campanha odontológica na semana.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>MedSênior:</b> a alteração de rede está confirmada, mas o comunicado exige leitura por registro ANS. Não assumir impacto uniforme em todos os planos Apartamento ou Enfermaria. Confirmar também a rede substituta no produto específico.</li><li><b>Prevent Senior:</b> a lista de novos prestadores é oficial, mas a operadora orienta consulta ao Orientador Médico/rede do plano. Não prometer que todo prestador atende todos os produtos.</li><li><b>Qualicorp:</b> campanha de cashback pública encerrada em 31/10. Não foi localizada prorrogação; remover o argumento de campanhas atuais até receber nova regra oficial.</li><li><b>NotreDame premium:</b> ainda faltam em fonte pública tabela do Rio, porte elegível, registros ANS, coparticipação, reembolso, rede por produto, carências, comissão e regulamentos de incentivo.</li><li><b>Hapvida +Odonto:</b> falta clareza pública sobre início, produtos alcançados e fluxo de exceção da biometria. Confirmar antes de responder casos especiais.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Auditoria de rede para clientes MedSênior do Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> beneficiários MedSênior que moram ou se atendem em Campo Grande, Niterói e São Gonçalo, especialmente clientes que citaram Casa de Saúde Nossa Senhora do Carmo ou CHN como referência.</p><p><b>Abordagem curta para WhatsApp:</b> “Olá, [nome]. A MedSênior anunciou uma mudança de internação em dois hospitais a partir de 30/11, mas ela não afeta todos os produtos da mesma forma. Posso conferir o registro do seu plano e mostrar exatamente o que muda e quais alternativas permanecem?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Qual é o nome e o número de registro ANS do plano na carteirinha ou contrato?</li><li>Você utiliza a Casa de Saúde Nossa Senhora do Carmo ou o CHN?</li><li>Há internação, cirurgia ou tratamento já agendado ou em andamento?</li><li>Quais hospitais e regiões são indispensáveis para sua rotina?</li><li>Você quer permanecer no plano se houver alternativa equivalente de rede?</li></ul><p><b>Argumento de valor:</b> “A mudança é específica por produto. Nosso trabalho é verificar seu registro, proteger a continuidade assistencial e comparar as alternativas antes de qualquer troca.”</p><p><b>Objeção — “Então a MedSênior perdeu esses hospitais?”:</b> “Não para todos os produtos. Alguns registros Infinite e Black continuam atendidos. Precisamos confirmar a sua carteirinha e o serviço utilizado.”</p><p><b>Venda cruzada:</b> durante a revisão cadastral, verificar se o cliente possui cobertura odontológica e se a rede atende perto de casa; apresentar proposta separada somente quando houver ganho real.</p><p><b>Ação da semana:</b> extrair a carteira MedSênior, priorizar clientes de Campo Grande, Niterói e São Gonçalo e concluir uma checagem individual até 13/11, antes da vigência de 30/11.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.2 Prospecção micro-PME com diagnóstico de custo total",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> CNPJs ativos com um a quatro titulares ou pequenas equipes, especialmente escritórios, clínicas, comércio e prestadores de serviços sem benefício estruturado.</p><p><b>Abordagem curta para ligação/WhatsApp:</b> “Olá, [nome]. Pequenas empresas estão contratando plano de saúde em volume crescente, mas as regras e o custo mudam bastante conforme número de vidas e perfil. Posso fazer um diagnóstico rápido para saber se o seu CNPJ tem opções viáveis?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Há quanto tempo o CNPJ está ativo e qual é a atividade principal?</li><li>Quantas pessoas entrariam e qual o vínculo de cada uma com a empresa?</li><li>Quais são as idades e municípios de residência?</li><li>Existe plano atual, tratamento em curso ou necessidade de portabilidade?</li><li>Qual rede é essencial e qual nível de coparticipação é aceitável?</li></ul><p><b>Argumento de valor:</b> “Não basta comparar mensalidade. Vou avaliar elegibilidade, rede, carências, coparticipação e custo provável de uso para evitar uma economia que vire problema depois.”</p><p><b>Objeção — “Plano empresarial sempre é mais barato”:</b> “Pode ser competitivo, mas não é automático. Depende do grupo, produto, reajuste e uso. A comparação deve considerar custo total e regras do contrato.”</p><p><b>Venda cruzada:</b> apresentar odonto empresarial como benefício separado, comparando rede, carência e custo por vida; não dizer que está incluso sem comprovação.</p><p><b>Ação da semana:</b> cada corretor abordar 15 CNPJs da base de leads antigos, registrando número de vidas, idade, bairro, plano atual e data de renovação antes da cotação.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.3 Preparação para a objeção de biometria no odontológico",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> novos clientes ou beneficiários Hapvida +Odonto que demonstram preocupação com privacidade.</p><p><b>Resposta objetiva:</b> “A operadora informa que a biometria confirma a identidade antes e depois da consulta e que a imagem não fica salva no celular do dentista. Para dúvidas sobre uso ou exclusão dos dados, o cliente deve usar o canal de privacidade da própria Hapvida.”</p><p><b>Ação comercial:</b> incluir uma mensagem de orientação no pós-venda odontológico e treinar os corretores para não improvisar explicações jurídicas sobre LGPD.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Revisar imediatamente a carteira MedSênior afetada pela mudança de rede de 30/11</b>, identificando o produto pelo registro ANS e protegendo tratamentos em curso.",
+        "<b>Transformar a expansão da Prevent Senior e o avanço dos contratos pequenos em prospecção segmentada</b>, validando rede e elegibilidade antes da oferta.",
+        "<b>Atualizar os roteiros comerciais:</b> retirar o argumento de cashback vencido da Qualicorp, incluir a biometria Hapvida +Odonto no pós-venda e preparar a equipe para as coberturas que entram em vigor em 03/11."
+      ],
+      "criterioEditorial": "Critério editorial: fatos confirmados foram separados de inferências comerciais. Não foram usados rumores nem tabelas de corretores sem validação pública. Quando a condição depende de material autenticado do canal, isso foi indicado expressamente."
     }
   ]
 }
