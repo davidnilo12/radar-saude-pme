@@ -1,3 +1,7 @@
+
+editions_completo_2026-11-09.json
+
+100%
 {
   "editions": [
     {
@@ -1122,6 +1126,247 @@
         "<b>Atualizar os roteiros comerciais:</b> retirar o argumento de cashback vencido da Qualicorp, incluir a biometria Hapvida +Odonto no pós-venda e preparar a equipe para as coberturas que entram em vigor em 03/11."
       ],
       "criterioEditorial": "Critério editorial: fatos confirmados foram separados de inferências comerciais. Não foram usados rumores nem tabelas de corretores sem validação pública. Quando a condição depende de material autenticado do canal, isso foi indicado expressamente."
+    },
+    {
+      "date": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "janela": "Janela: 02 a 08 de novembro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>Saída programada de CEAM Brasil e Atívia:</b> a ANS abriu novo prazo de portabilidade especial a partir de 05/11. Os beneficiários têm até 03/01/2027 para ingressar em outro plano; depois disso, os registros das duas operadoras serão cancelados. A medida alcança beneficiários de planos individuais, PME e coletivos por adesão, embora a portabilidade seja sempre exercida pela pessoa física, não pela empresa contratante.",
+        "<b>Mercado médico cresce pouco e de forma desigual:</b> em setembro, os planos médico-hospitalares chegaram a 53,1 milhões de vínculos, com alta de 0,02% no mês e 0,83% em 12 meses. O coletivo empresarial avançou 1,92% em 12 meses, enquanto o individual/familiar recuou 2,99% e o coletivo por adesão caiu 0,65%.",
+        "<b>Odontológico mantém a melhor dinâmica comercial:</b> 37,4 milhões de vínculos, alta de 7,01% em 12 meses. O odonto empresarial cresceu 8,31% e o odonto por adesão, 7,03%. Para a Marins, o dado reforça a prioridade de venda cruzada na carteira médica existente.",
+        "<b>Cartões de desconto sob escrutínio:</b> a ANS prorrogou por 90 dias o comitê que estuda cartões de desconto, pré-pagos e serviços correlatos. Não há regulamentação aprovada; a própria Agência reforça que esses produtos não são planos de saúde e não têm as mesmas garantias."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 Portabilidade especial — CEAM Brasil e Atívia",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado — prazo até 03/01/2027",
+              "corpo": "<p>Em 06/11, a ANS informou que as Resoluções Operacionais publicadas no DOU de 05/11 concederam 60 dias de portabilidade especial aos clientes de <b>CEAM Brasil – Planos de Saúde Ltda. (ANS 31.147-2)</b> e <b>Atívia Serviços de Saúde S/A (ANS 32.051-0)</b>. O prazo termina em 03/01/2027.</p><ul><li>O beneficiário pode escolher qualquer plano em comercialização, independentemente da faixa de preço, sem cumprir novas carências ou cobertura parcial temporária; se houver período remanescente, ele será concluído no plano de destino.</li><li>Documentação indicada pela ANS: identidade, CPF, comprovante de residência e cópias de pelo menos três boletos pagos na operadora de origem, referentes ao período a partir de outubro de 2024.</li><li>Em contratos coletivos empresariais e por adesão, a pessoa jurídica contratante deve escolher outra operadora para a carteira. Individualmente, cada beneficiário pode portar para plano individual ou coletivo para o qual seja elegível.</li><li>No caso de empresário individual, a ANS considera o contratante pessoa física para esse fim, permitindo o exercício da portabilidade no ato da contratação de novo plano empresarial, individual ou familiar.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "oportunidade legítima de atendimento consultivo e risco operacional alto se algum cliente perder o prazo. A corretora deve procurar na carteira e nos leads os nomes CEAM e Atívia, registrar a data-limite e comparar rede, acomodação e coparticipação do plano de destino. Não prometer aceitação automática nem “migração do contrato”: a portabilidade é individual e, em plano coletivo, depende também da elegibilidade."
+                }
+              ],
+              "fonte": "Fonte: ANS, 06/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario/ans-concede-portabilidade-especial-para-clientes-de-ceam-brasil-e-ativia\" target=\"_blank\" rel=\"noopener\">Portabilidade especial para clientes de CEAM Brasil e Atívia</a>"
+            },
+            {
+              "subtitulo": "1.2 Cartões de desconto e pré-pagos sob escrutínio",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado; regulação ainda não definida",
+              "corpo": "<p>Em 03/11, a Diretoria Colegiada da ANS referendou a prorrogação, por mais 90 dias, do comitê interno que estuda cartões de desconto, cartões pré-pagos e serviços semelhantes. O prazo poderá ser renovado novamente.</p><p>A ANS declarou que ainda não existe regulamentação aprovada para esses produtos. Eles podem oferecer descontos ou serviços previamente contratados, mas <b>não são planos de saúde</b> e não oferecem as mesmas garantias de cobertura previstas na Lei nº 9.656/1998.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "revisar imediatamente anúncios, roteiros, landing pages e mensagens de WhatsApp para que nenhum cartão, clube, telemedicina avulsa ou rede de desconto seja apresentado como “plano”, “convênio” ou substituto equivalente. Isso é especialmente importante para qualquer oferta da linha de benefícios de baixo custo."
+                }
+              ],
+              "fonte": "Fonte: ANS, 03/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario/deliberacoes-da-645a-reuniao-da-diretoria-colegiada/\" target=\"_blank\" rel=\"noopener\">ANS prorroga trabalhos de comitê sobre cartões de desconto</a>"
+            },
+            {
+              "subtitulo": "1.3 Consulta Pública 180 — tratamentos oncológicos",
+              "tag": "proposta",
+              "tagLabel": "Proposta em consulta — sem alteração de cobertura neste momento",
+              "corpo": "<p>A ANS abriu em 06/11 a Consulta Pública 180, até 25/11, sobre lenvatinibe combinado com pembrolizumabe para câncer renal avançado/metastático e ivosidenibe para colangiocarcinoma com mutação IDH1. As duas propostas receberam recomendação preliminar desfavorável à incorporação e serão debatidas na Audiência Pública 71 em 16/11.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "não muda a cobertura obrigatória agora e não deve ser usado como argumento de venda. Serve como alerta para dúvidas de clientes oncológicos: o corretor deve encaminhar questões assistenciais à operadora e evitar afirmar que os tratamentos já estão no Rol."
+                }
+              ],
+              "fonte": "Fontes: ANS, 06/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/sociedade/consulta-publica-180-ans-recebe-contribuicoes-para-atualizacao-do-rol\" target=\"_blank\" rel=\"noopener\">Consulta Pública 180</a> e <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/sociedade/ans-promove-audiencia-publica-71\" target=\"_blank\" rel=\"noopener\">Audiência Pública 71</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 Coletivo empresarial segue como único segmento médico com avanço anual relevante",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado",
+              "corpo": "<p>Os dados de setembro divulgados pela ANS em 05/11 mostram crescimento de 0,15% no mês e 1,92% em 12 meses nos planos médico-hospitalares coletivos empresariais. É o único dos três grandes tipos de contratação médica com avanço anual relevante.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "manter PME como principal frente de aquisição, priorizando micro e pequenas empresas com revisão de benefício, admissões recentes ou insatisfação com rede e coparticipação. O ganho deve vir de diagnóstico de necessidade, não apenas de desconto de entrada."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "2.2 Empresas com contrato CEAM/Atívia precisarão escolher nova operadora",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado",
+              "corpo": "<p>Empresas contratantes de CEAM Brasil e Atívia precisarão escolher nova prestadora para a carteira. A Marins pode apoiar a pesquisa de mercado e o processo documental, deixando claro que a portabilidade de carências é direito individual dos beneficiários, e não uma portabilidade do CNPJ.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "oferecer apoio consultivo à empresa na escolha da nova operadora, sem confundir esse processo com a portabilidade individual de cada beneficiário, que segue regras e elegibilidade próprias."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "2.3 Campanha Hapvida para CNPJ de SP/RJ: condição pública que exige validação",
+              "tag": "proposta",
+              "tagLabel": "Condição pública encontrada — ainda não validada para oferta",
+              "corpo": "<p>Uma página oficial de contratação digital da Hapvida consultada em 09/11 anuncia desconto promocional na primeira mensalidade para CNPJ de São Paulo ou Rio de Janeiro. A página acessível não apresenta, de forma suficiente, vigência, produtos, número de vidas, municípios, regras de elegibilidade e hipóteses de cancelamento da campanha.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Risco",
+                  "texto": "não ofertar com base apenas no banner; confirmar o regulamento completo e a tabela vigente no canal comercial antes de apresentar qualquer cotação ao cliente."
+                }
+              ],
+              "fonte": "Fonte: página oficial Hapvida, consulta em 09/11/2026 — <a href=\"https://saudedigital-pf.hapvida.com.br/?code=2UJEPW\" target=\"_blank\" rel=\"noopener\">contratação digital Hapvida</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
+            {
+              "subtitulo": "3.1 Coletivo por adesão fica estável no mês e recua no ano",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado",
+              "corpo": "<p>O segmento médico por adesão ficou praticamente estável no mês e recuou 0,65% em 12 meses. O contraste com o crescimento do PME sugere necessidade de retenção mais ativa e prova de valor na renovação.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "abordar beneficiários por adesão com revisão de rede efetivamente usada, elegibilidade, reajuste e coparticipação — sem induzir troca quando o plano atual ainda atende bem. Para carteiras CEAM/Atívia, entidades e administradoras precisarão selecionar outra operadora; cada beneficiário poderá exercer a portabilidade individualmente, conforme elegibilidade."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.2 Sem novidade comercial confirmada para adesão no Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada, no período de 02 a 08/11, nova condição pública oficial de carência, comissionamento ou produto para adesão relevante ao Rio de Janeiro. Materiais de mercado sem regulamento oficial não foram tratados como condição confirmada.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.3 Individual/familiar segue em recuo",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado",
+              "corpo": "<p>Os planos médico-hospitalares individuais/familiares recuaram 0,59% em setembro e 2,99% em 12 meses.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "toda cotação deve registrar data, município, faixa etária, acomodação, coparticipação, rede e carências efetivamente confirmadas no momento da proposta, evitando tratar páginas antigas como novidade."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.4 MedSênior, Leve Saúde e Prevent Senior: sem evolução verificável na semana",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>A checagem dos canais oficiais não encontrou, entre 02 e 08/11, lançamento, encerramento ou alteração de carência, coparticipação, elegibilidade ou expansão/redução de área de comercialização com efeito novo no Rio de Janeiro.</p><ul><li><b>MedSênior:</b> não houve evolução nova sobre a alteração de rede hospitalar com vigência em 30/11 já reportada no briefing anterior. O guia médico deve continuar sendo conferido por produto antes de cada proposta.</li><li><b>Prevent Senior:</b> o comunicado mais recente no período trata de pesquisa de satisfação iniciada em novembro, sem efeito comercial ou assistencial.</li><li><b>Leve Saúde:</b> as páginas públicas continuam exibindo produtos de referência, mas sem data de publicação que permita classificá-los como mudança da semana. Não houve nova atualização de rede publicada no período.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "evitar transformar páginas antigas ou condições “a partir de” em novidade. Toda cotação deve registrar os dados efetivamente confirmados no momento da proposta."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "4. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": "4.1 Odontológico mantém a melhor dinâmica comercial do mercado",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado",
+              "corpo": "<p>A ANS registrou 37,4 milhões de vínculos exclusivamente odontológicos em setembro, alta de 7,01% em 12 meses. O odonto coletivo empresarial cresceu 8,31% em 12 meses; o por adesão, 7,03%.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Oportunidade para a Marins",
+                  "texto": "o odonto é a oportunidade comercial mais clara da semana para venda cruzada, principalmente em PMEs que já compram saúde, mas não oferecem odontológico. A proposta deve comparar cobertura do Rol, rede próxima ao trabalho ou residência, carências, urgência, canais digitais e regras de inclusão/exclusão; argumento baseado apenas em preço tende a aumentar cancelamento."
+                }
+              ],
+              "fonte": "Fonte: ANS, 05/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor/ans-divulga-numeros-de-beneficiarios-de-setembro/\" target=\"_blank\" rel=\"noopener\">Números de beneficiários de setembro de 2026</a>"
+            },
+            {
+              "subtitulo": "4.2 Sem novidade comercial confirmada para o Rio de Janeiro",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada, no período, campanha oficial nova de operadora odontológica com regulamento público aplicável ao Rio de Janeiro, nem nova tabela pública de comissionamento.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>Confirmado:</b> portabilidade especial CEAM/Atívia até 03/01/2027, sem exigência de compatibilidade por preço e sem novas carências, observado eventual período remanescente.</li><li><b>Confirmado, mas incompleto para oferta:</b> banner oficial Hapvida anuncia desconto promocional na primeira mensalidade para CNPJ de SP/RJ. Falta validar regulamento completo, vigência, produtos, municípios e quantidade de vidas.</li><li><b>Não confirmado por fonte primária:</b> circularam páginas de corretores com campanhas de novembro de Amil, MedSênior, NotreDame e outras operadoras. Como não foi localizado regulamento oficial público suficiente, essas condições não devem ser publicadas nem prometidas sem checagem no portal do corretor ou confirmação escrita do canal comercial.</li><li><b>Comissionamento:</b> nenhuma nova grade pública oficial relevante ao RJ foi localizada. Usar somente a grade vigente fornecida formalmente pela operadora/administradora e conferir regras de estorno, inadimplência e implantação.</li><li><b>MedSênior, Leve e Prevent:</b> sem condição nova verificável na semana. Páginas públicas devem ser tratadas como referência, não como garantia de condição final.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Mutirão de portabilidade CEAM/Atívia",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> beneficiário, empresário individual, RH, entidade ou administradora com contrato CEAM Brasil ou Atívia; prazo regulatório até 03/01/2027.</p><p><b>Abordagem curta:</b> “Olá, [nome]. A ANS abriu portabilidade especial para clientes CEAM e Atívia até 3 de janeiro. Posso conferir seu contrato, a rede que você realmente usa e as opções disponíveis sem reinício de carências, seguindo as regras da Agência?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Qual é a operadora, o nome do produto e o tipo de contratação atual?</li><li>Em quais municípios e hospitais ou laboratórios você precisa de atendimento?</li><li>Existe carência ou cobertura parcial temporária ainda em andamento?</li><li>Qual acomodação e nível de coparticipação fazem sentido para você?</li><li>Você tem documento pessoal, comprovante de residência e pelo menos três boletos pagos desde outubro de 2024?</li></ul><p><b>Argumento de valor:</b> “A Marins organiza a documentação e compara planos em comercialização pela rede, regras e custo total; a escolha continua sendo sua e a aceitação segue a norma e os critérios do plano de destino.”</p><p><b>Objeção — “Vou deixar para dezembro”:</b> “É possível, mas a análise de rede, documentos e elegibilidade leva tempo. Começar agora reduz o risco de decidir sob pressão perto de 3 de janeiro.”</p><p><b>Venda cruzada:</b> só depois de resolver a continuidade médica, oferecer comparação odontológica separada e opcional, sem condicionar a portabilidade.</p><p><b>Ação da semana:</b> criar no CRM a tag “Portabilidade CEAM/Atívia”, varrer carteira e leads, fazer contato em até 48 horas e programar alertas em 30/11, 15/12 e 27/12 para casos ainda abertos.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.2 Odonto como complemento de retenção em PME",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> empresas de 2 a 99 vidas que já têm saúde, mas não odontológico, ou cuja equipe reclama de acesso e benefício pouco percebido.</p><p><b>Abordagem curta:</b> “Seu plano de saúde já está organizado. Posso mapear em dez minutos se um odontológico faria sentido para a equipe, olhando rede, carências e uso esperado — sem mexer no contrato médico?”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Quantos titulares e dependentes poderiam aderir?</li><li>O benefício será custeado pela empresa, compartilhado ou pago pelo colaborador?</li><li>Quais bairros e municípios concentram a equipe?</li><li>Há demanda por urgência, prevenção, odontopediatria ou procedimentos além do Rol básico?</li><li>Qual índice de adesão a empresa considera viável?</li></ul><p><b>Argumento de valor:</b> “O odontológico pode ampliar a percepção de benefício e cresce mais que o mercado médico, mas a escolha precisa combinar rede próxima, cobertura e regras claras para evitar cancelamento.”</p><p><b>Objeção — “Ninguém vai usar”:</b> “Antes de contratar, podemos validar bairros, rede e perfil de dependentes. Isso dá uma estimativa mais realista de adesão, sem prometer utilização.”</p><p><b>Venda cruzada:</b> oferecer odonto à base de saúde; na prospecção de odonto, identificar empresas sem plano médico e solicitar autorização para uma revisão futura.</p><p><b>Ação da semana:</b> selecionar 30 clientes PME sem odontológico, segmentar por município e número de vidas e apresentar duas opções comparáveis somente após confirmar rede e tabela vigentes.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.3 Venda ética de cartão de desconto versus plano regulado",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> pessoa ou família com orçamento insuficiente para plano completo e interesse em consultas, exames ou telemedicina com acesso facilitado.</p><p><b>Abordagem curta:</b> “Antes de comparar condições, quero separar duas soluções: plano de saúde regulado pela ANS e cartão/rede de desconto. Eles não têm as mesmas coberturas nem garantias.”</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>A prioridade é rotina ambulatorial ou também proteção para internação?</li><li>Existe tratamento contínuo, cirurgia prevista ou necessidade de urgência?</li><li>Qual é o orçamento mensal sustentável para a família?</li><li>Quais serviços e municípios precisam estar disponíveis?</li></ul><p><b>Argumento de valor:</b> apresentar o cartão apenas como acesso a descontos/serviços descritos no contrato e o plano como produto regulado com cobertura conforme segmentação e Rol. Nunca usar “mesma coisa por menos”.</p><p><b>Objeção — “Mas disseram que é um plano barato”:</b> “A ANS é clara: cartão de desconto e pré-pago não são planos de saúde. Posso mostrar por escrito o que cada opção cobre, limita e cobra.”</p><p><b>Venda cruzada:</b> se houver capacidade financeira, cotar plano regulado e odontológico separadamente; não embutir nem sugerir cobertura inexistente.</p><p><b>Ação da semana:</b> auditar dez anúncios e os roteiros de WhatsApp da Marins, substituir termos ambíguos e incluir um quadro simples “é plano / não é plano” com fonte da ANS.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Urgente — CEAM/Atívia:</b> identificar beneficiários e empresas afetados e iniciar o processo antes do acúmulo de fim de ano; prazo final em 03/01/2027.",
+        "<b>Conformidade comercial:</b> revisar imediatamente a comunicação de cartões de desconto, pré-pagos e telemedicina avulsa; não apresentar esses serviços como plano de saúde.",
+        "<b>Execução de receita:</b> abrir campanha de venda cruzada odontológica na carteira PME, usando rede e cobertura confirmadas como argumento central, não apenas preço."
+      ],
+      "criterioEditorial": "Critério editorial: foram priorizadas fontes oficiais e comunicações públicas. Informações não confirmadas por fonte primária foram identificadas como lacuna ou sinal comercial a validar. Não houve repetição das notícias do radar anterior sem evolução relevante."
     }
   ]
 }
+Exibindo editions_completo_2026-11-09.json…
