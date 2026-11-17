@@ -1362,6 +1362,261 @@
         "<b>Execução de receita:</b> abrir campanha de venda cruzada odontológica na carteira PME, usando rede e cobertura confirmadas como argumento central, não apenas preço."
       ],
       "criterioEditorial": "Critério editorial: foram priorizadas fontes oficiais e comunicações públicas. Informações não confirmadas por fonte primária foram identificadas como lacuna ou sinal comercial a validar. Não houve repetição das notícias do radar anterior sem evolução relevante."
+    },
+    {
+      "date": "2026-11-16",
+      "dateLabel": "16/11/2026",
+      "janela": "Janela: 09 a 15 de novembro de 2026",
+      "recorte": "Recorte: Rio de Janeiro",
+      "videoId": null,
+      "videoNarrador": null,
+      "resumoExecutivo": [
+        "<b>Novo Rol com vigência futura:</b> a ANS publicou em 16/11 a RN 683, que torna obrigatórios, a partir de 01/02/2027, o painel genético NGS para casos definidos de câncer de pulmão e o antineoplásico oral tepotinibe para pacientes adultos com mutação METex14, conforme as diretrizes de utilização.",
+        "<b>PME ganhou duas campanhas públicas de novembro:</b> a Bradesco Saúde oferece desconto promocional na segunda fatura para planos SPG de 3 a 199 pessoas, em cotações até 30/11; a Qualicorp passou a anunciar cashback sobre a primeira parcela de novos planos com CNPJ até 30/11, nos planos e municípios participantes.",
+        "<b>Dental tem condições públicas fortes:</b> a Bradesco Dental divulgou carência reduzida ou isenta para pessoa física e descontos/isenções de faturas para contratos empresariais, além de nova tabela de preços divulgada para o Padrão DOC em grupos de 30 a 199 vidas.",
+        "<b>Hapvida e Qualicorp reforçam a migração para PME:</b> os resultados do 3T26 mostram expansão relativa de PME, ao mesmo tempo em que as companhias revisam contratos, portfólio e rentabilidade. Para a Marins, isso significa oportunidade comercial, mas também maior necessidade de confirmar aceitação, rede e permanência da condição antes de vender.",
+        "<b>Prazo urgente:</b> beneficiários da Dr. Dia Planos Odontológicos e Saúde têm até 20/11/2026 para exercer a portabilidade especial."
+      ],
+      "secoes": [
+        {
+          "titulo": "1. Regulação",
+          "itens": [
+            {
+              "subtitulo": "1.1 ANS inclui NGS e tepotinibe no Rol",
+              "tag": "confirmado",
+              "tagLabel": "Confirmado — vigência a partir de 01/02/2027",
+              "corpo": "<p>A Resolução Normativa ANS nº 683, assinada em 13/11 e publicada no DOU em 16/11, altera a RN 465/2021. A cobertura obrigatória começa em <b>01/02/2027</b>.</p><ul><li><b>Painel de sequenciamento de nova geração — NGS:</b> destinado à identificação de alterações nos genes EGFR, ALK, ROS1, RET, NTRK, BRAF, MET, KRAS e HER2 em pacientes com câncer de pulmão de não pequenas células, não escamoso, avançado ou metastático, nos estágios definidos pela DUT. A norma prevê tecido tumoral e, quando insuficiente, amostra plasmática.</li><li><b>Tepotinibe:</b> cobertura em primeira linha para adultos com câncer de pulmão de não pequenas células avançado e mutação METex14, conforme DUT aplicável à terapia antineoplásica oral.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "não muda a cobertura hoje. A equipe deve responder que a obrigatoriedade começa em fevereiro de 2027 e depende dos critérios clínicos da DUT. É tema para pós-venda e orientação, não para promessa genérica de \"cobertura de qualquer exame genético ou tratamento oncológico\"."
+                }
+              ],
+              "fonte": "Fontes: <a href=\"https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-683-de-13-de-novembro-de-2026-744434009\" target=\"_blank\" rel=\"noopener\">Diário Oficial da União — RN 683, 16/11/2026</a>; síntese pública conferida em <a href=\"https://atlaspublico.com.br/noticias/ans-inclui-no-rol-exame-genetico-ngs-e-tepotinibe-para-102041\" target=\"_blank\" rel=\"noopener\">Atlas Público, 16/11/2026</a>"
+            },
+            {
+              "subtitulo": "1.2 Portabilidade especial da Dr. Dia termina em 20/11",
+              "tag": "risco",
+              "tagLabel": "Fato confirmado e prazo crítico — até 20/11/2026",
+              "corpo": "<p>A lista de portabilidades especiais da ANS, atualizada em 10/11, confirma que clientes da <b>Dr. Dia Planos Odontológicos e Saúde Ltda. (ANS 42.635-3)</b> têm até 20/11/2026 para ingressar em outro plano. Ao final do processo, o registro da operadora será cancelado.</p><p>O beneficiário pode escolher plano em comercialização em qualquer faixa de preço. Carências ou CPT já cumpridas não recomeçam; eventual período remanescente continua no destino. Para plano coletivo, permanece a obrigação de comprovar elegibilidade.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "localizar imediatamente clientes ou leads vinculados à Dr. Dia e concluir documentação e proposta antes do prazo. Como a razão social menciona saúde e odontológico, conferir no contrato de origem a segmentação e nunca assumir que uma cobertura inexistente no plano anterior será automaticamente aproveitada."
+                }
+              ],
+              "fonte": "Fonte: ANS, atualização de 10/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/periodo-eleitoral/portabilidades-especiais-em-andamento/\" target=\"_blank\" rel=\"noopener\">Portabilidades especiais em andamento</a>"
+            },
+            {
+              "subtitulo": "1.3 Próxima rodada de avaliação do Rol",
+              "tag": "proposta",
+              "tagLabel": "Agenda regulatória — sem nova cobertura aprovada",
+              "corpo": "<p>Em 13/11, a ANS informou que a 57ª reunião técnica da Cosaúde ocorrerá em 24 e 25/11 para discutir mepolizumabe em DPOC, somatrogona para deficiência de hormônio de crescimento, darolutamida em câncer de próstata, cabozantinibe para tumores neuroendócrinos e nirsevimabe para prevenção de VSR em bebês, nas indicações especificadas.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "apenas monitoramento. Corretores não devem afirmar que essas tecnologias já integram o Rol."
+                }
+              ],
+              "fonte": "Fonte: ANS, 13/11/2026 — <a href=\"https://www.gov.br/ans/pt-br/assuntos/noticias/sociedade/ans-realiza-57a-reuniao-tecnica-da-cosaude\" target=\"_blank\" rel=\"noopener\">57ª Reunião Técnica da Cosaúde</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "2. PME/coletivo empresarial",
+          "itens": [
+            {
+              "subtitulo": "2.1 Bradesco Saúde — Seguros Friday",
+              "tag": "confirmado",
+              "tagLabel": "Condição pública oficial — cotações até 30/11/2026",
+              "corpo": "<p>Para cotações realizadas de 03 a 30/11/2026, a Bradesco Saúde anuncia desconto promocional na segunda fatura em planos SPG destinados a grupos de 3 a 199 pessoas.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Impacto para a Marins",
+                  "texto": "campanha com bom apelo para pequenas e médias empresas do Rio, especialmente negócios com decisão prevista para novembro. O desconto deve ser apresentado como benefício pontual de entrada; a venda precisa mostrar mensalidade normal, rede, coparticipação, reajuste e custo anual após a campanha. Confirmar antes da oferta: produtos e municípios do RJ participantes, data-limite de implantação, elegibilidade, regras de aceitação, eventual exigência de mínimo de titulares e possibilidade de acumular com outras campanhas."
+                }
+              ],
+              "fonte": "Fonte: Bradesco Seguros, página oficial consultada em 16/11/2026 — <a href=\"https://www.bradescoseguros.com.br/clientes/segurosfriday/\" target=\"_blank\" rel=\"noopener\">Seguros Friday 2026</a>"
+            },
+            {
+              "subtitulo": "2.2 Qualicorp — cashback para contratação com CNPJ",
+              "tag": "confirmado",
+              "tagLabel": "Condição pública oficial — detalhes regionais a confirmar",
+              "corpo": "<p>A página da Qualicorp passou a anunciar cashback sobre a primeira parcela de novo plano de saúde com CNPJ contratado até 30/11/2026. A administradora ressalva que a condição vale para planos e municípios participantes.</p>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Impacto para a Marins",
+                  "texto": "oportunidade para reabrir leads PME que adiaram a contratação por custo inicial. Não publicar lista de operadoras ou cidades sem confirmação do simulador/regulamento, nem apresentar o cashback como redução permanente da mensalidade."
+                }
+              ],
+              "fonte": "Fonte: Qualicorp, página oficial consultada em 16/11/2026 — <a href=\"https://www.qualicorp.com.br/planos-para-sua-familia/\" target=\"_blank\" rel=\"noopener\">Black Friday Qualicorp</a>"
+            },
+            {
+              "subtitulo": "2.3 Qualicorp e Hapvida ampliam o foco em PME",
+              "tag": "confirmado",
+              "tagLabel": "Fatos confirmados em resultados; impacto comercial é inferência",
+              "corpo": "<ul><li><b>Qualicorp:</b> a carteira PME em que atua como corretora encerrou o 3T26 com 104,3 mil vidas, alta de 1,2% frente ao 2T26 e 5,5% frente ao 3T25. A companhia informou negociação com operadoras de maior porte e desenvolvimento de produtos mais competitivos, sem divulgar nova tabela, rede ou produto específico.</li><li><b>Hapvida:</b> a companhia reduziu a base de saúde em 235 mil vidas no trimestre; 226 mil estavam ligadas ao processo de reavaliação de contratos deficitários ou inadimplentes. Ao mesmo tempo, informou adições líquidas positivas no varejo das regiões metropolitanas de São Paulo e Rio de Janeiro e participação crescente do PME no mix comercial.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "o PME segue como canal prioritário para as grandes plataformas. A oportunidade vem acompanhada de subscrição e revisão de rentabilidade mais rigorosas. Para Hapvida, atenção especial à rede atualizada: a companhia também informou custos pontuais com fechamento e otimização de clínicas e unidades de diagnóstico, sem detalhar no relatório quais unidades foram afetadas."
+                }
+              ],
+              "fonte": "Fontes: Qualicorp, <a href=\"https://filemanager-cdn.mziq.com/published/d364dcab-3dc9-4328-97f8-3a6a0de6a543/ab09ea25-c4bd-4764-8fdb-34db2367d5a2\" target=\"_blank\" rel=\"noopener\">Resultados 3T26, 11/11/2026</a>; Hapvida, <a href=\"https://filemanager-cdn.mziq.com/published/6bbd1770-f9f4-44e8-a1b1-d26b7585eec1/1d40dc74-6259-45cb-8600-a707b8ca5548\" target=\"_blank\" rel=\"noopener\">Resultados 3T26, 12/11/2026</a>"
+            }
+          ]
+        },
+        {
+          "titulo": "3. Coletivo por adesão e individual/familiar",
+          "itens": [
+            {
+              "subtitulo": "3.1 Qualicorp — carteira de adesão ainda encolhe, mas retenção melhora",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado",
+              "corpo": "<p>A carteira administrada encerrou o 3T26 com 473,2 mil vidas, queda de 1,5% no trimestre e 17,1% em 12 meses. O churn trimestral caiu para 9,5%, ante 10,3% no 3T25, o menor nível para um terceiro trimestre desde 2020. Considerando também a carteira \"Adesão Outros\", o portfólio de adesão ficou em 753,4 mil vidas, alta de 0,6% no trimestre e queda de 1,0% em 12 meses.</p>",
+              "blocos": [
+                {
+                  "tipo": "impact",
+                  "label": "Impacto para a Marins",
+                  "texto": "a redução de cancelamentos sugere melhora de retenção, mas a carteira administrada ainda perde vidas. A ação prática é revisar clientes perto do aniversário do contrato, comparando reajuste, rede usada e elegibilidade antes que a insatisfação gere cancelamento. A companhia declarou buscar reajustes mais equilibrados, mas não divulgou uma nova condição pública geral para adesão nesta semana."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.2 Sem novidade comercial confirmada para adesão no Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi encontrada campanha pública nova de preço, carência ou comissionamento específica para adesão no Rio entre 09 e 16/11. O cashback divulgado pela Qualicorp é para contratação com CNPJ e não deve ser anunciado como condição de adesão.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.3 Individual/familiar sem alteração relevante no Rio",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p>Não foi localizada, entre 09 e 16/11, nova alteração oficial de produto, preço, elegibilidade, carência, coparticipação, área de comercialização ou rede com efeito no Rio de Janeiro para MedSênior, Leve Saúde e Prevent Senior.</p><ul><li><b>MedSênior:</b> o único comunicado operacional novo localizado é uma errata de rede em São Paulo, sem efeito para o RJ. A mudança hospitalar do Rio com vigência em 30/11 já foi tratada nos briefings anteriores e não apresentou evolução nova.</li><li><b>Leve Saúde:</b> as páginas públicas de produtos permanecem disponíveis, mas não houve atualização de rede ou condição datada na semana que caracterize mudança.</li><li><b>Prevent Senior:</b> não houve novo comunicado comercial ou de rede no período; a expansão no RJ de 29/10 já foi reportada e não foi repetida.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "continuar cotando individual com data de validade e rede conferida no dia. Não converter sinal de estratégia corporativa em promessa de aprovação, preço ou expansão de rede."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "3.4 Hapvida — maior seletividade nos canais corporativo e individual",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado em resultado corporativo; leitura estratégica",
+              "corpo": "<p>O relatório do 3T26 informa maior seletividade nos canais corporativo e individual e atribui parte da evolução do ticket ao reajuste menor autorizado para planos individuais. Isso é uma orientação estratégica da companhia, não uma mudança pública de tabela ou produto. No Rio, a operadora afirma que o varejo metropolitano teve adições líquidas positivas.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "4. Planos odontológicos",
+          "itens": [
+            {
+              "subtitulo": "4.1 Bradesco Dental — pessoa física",
+              "tag": "confirmado",
+              "tagLabel": "Condição pública oficial — válida até 30/11/2026",
+              "corpo": "<ul><li>Pagamento anual: carência zero para todos os eventos cobertos, conforme a oferta publicada.</li><li>Pagamento mensal: 30 dias para Clínica Geral e 90 dias para Prótese, Documentação Ortodôntica, Ortodontia e Clareamento, nos produtos que possuam essas coberturas.</li><li>Alguns planos individuais são exclusivos para correntistas Bradesco; Ideal IV e Dental Ideal DOC são anunciados para correntistas e não correntistas.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Impacto para a Marins",
+                  "texto": "excelente campanha para venda cruzada à base individual de saúde, desde que o corretor confirme produto, cobertura e forma de pagamento. \"Carência zero\" não significa que todos os procedimentos possíveis estejam cobertos."
+                }
+              ],
+              "fonte": null
+            },
+            {
+              "subtitulo": "4.2 Bradesco Dental — empresarial",
+              "tag": "confirmado",
+              "tagLabel": "Condição pública oficial — confirmar definições antes da divulgação",
+              "corpo": "<ul><li>Padrão DOC: nova tabela de preços divulgada por faixa de vidas (30 a 99 e 100 a 199), já com desconto aplicado.</li><li>Padrão DOC MEI e Padrão DOC MEI White: isenção de carência em Clínica Geral e 30 dias para Prótese, Documentação Ortodôntica e Clareamento, conforme a página oficial.</li><li>Contratos exclusivamente odontológicos: desconto promocional na segunda fatura.</li><li>Contratos conjugados: isenção da segunda e da terceira fatura, usando como base o valor da primeira.</li></ul>",
+              "blocos": [
+                {
+                  "tipo": "opp",
+                  "label": "Impacto para a Marins",
+                  "texto": "oportunidade clara de venda cruzada saúde + dental. Antes da divulgação, confirmar definição de \"contrato conjugado\", produtos aceitos, faixa de vidas, regras de faturamento, cobertura e implantação."
+                }
+              ],
+              "fonte": "Fonte: Bradesco Seguros, página oficial consultada em 16/11/2026 — <a href=\"https://www.bradescoseguros.com.br/clientes/segurosfriday/\" target=\"_blank\" rel=\"noopener\">Seguros Friday 2026</a>"
+            },
+            {
+              "subtitulo": "4.3 Hapvida Odonto — ajuste de carteira",
+              "tag": "confirmado",
+              "tagLabel": "Fato confirmado em resultado corporativo",
+              "corpo": "<p>A base odontológica caiu de 7,293 milhões para 7,262 milhões de beneficiários no 3T26. O segmento individual avançou cerca de 54 mil vidas, enquanto o corporativo perdeu aproximadamente 84 mil. A receita odontológica cresceu no trimestre, principalmente por reajustes contratuais.</p>",
+              "blocos": [
+                {
+                  "tipo": "risk",
+                  "label": "Impacto para a Marins",
+                  "texto": "há tração no individual, mas pressão na carteira corporativa. Para PME, reforçar rede, onboarding e clareza de uso para reduzir cancelamentos; não inferir nova campanha ou alteração de preço a partir do balanço."
+                }
+              ],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "5. Condições comerciais e lacunas de informação",
+          "itens": [
+            {
+              "subtitulo": null,
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<ul><li><b>Bradesco Saúde:</b> desconto promocional na segunda fatura do SPG, 3 a 199 vidas, cotações até 30/11. Confirmar implantação, municípios, produtos e cumulação.</li><li><b>Qualicorp CNPJ:</b> cashback da primeira parcela até 30/11, somente em planos e municípios participantes. O site não exibe na página consultada a lista completa de elegibilidade.</li><li><b>Bradesco Dental:</b> condições de PF e PJ publicadas, mas a corretora deve validar tabela, IOF quando aplicável, abrangência, cobertura e regulamento antes da proposta.</li><li><b>Comissionamento:</b> não foi localizada nova grade pública oficial relevante ao RJ nesta semana. Usar exclusivamente a grade vigente no portal ou comunicado formal da operadora/administradora.</li><li><b>Rede Hapvida:</b> o balanço menciona otimização e fechamento de unidades sem identificar locais. Conferir o guia de rede por produto e município no dia da cotação.</li><li><b>MedSênior, Leve e Prevent:</b> nenhuma condição nova confirmada no período.</li></ul>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        },
+        {
+          "titulo": "6. Técnicas de vendas da semana",
+          "itens": [
+            {
+              "subtitulo": "6.1 Campanha \"benefício de entrada, custo real do contrato\"",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> CNPJ de 3 a 199 vidas que pretende contratar ou trocar o plano ainda em novembro.</p><p><b>Abordagem curta:</b> \"A Bradesco publicou uma condição de novembro para grupos de 3 a 199 pessoas. Posso confirmar se o seu CNPJ e município participam e comparar a economia inicial com o custo normal do contrato?\"</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Quantos titulares e dependentes entrarão agora?</li><li>Quais municípios e hospitais são indispensáveis?</li><li>Existe plano atual, data de aniversário ou aviso prévio?</li><li>A empresa aceita coparticipação? Em quais serviços?</li><li>Qual orçamento mensal será sustentável depois do desconto?</li></ul><p><b>Argumento de valor:</b> \"O desconto reduz o desembolso de entrada, mas a decisão precisa fechar pela rede, regras e mensalidade recorrente. A Marins mostra os dois números.\"</p><p><b>Objeção — \"Quero o maior desconto\":</b> \"O maior percentual nem sempre gera o menor custo anual. Vou comparar a mensalidade normal, coparticipação e rede para evitar uma economia curta com problema depois.\"</p><p><b>Venda cruzada:</b> simular dental conjugado somente se a condição for confirmada para o perfil e mostrar as coberturas separadamente.</p><p><b>Ação da semana:</b> selecionar 40 leads PME com decisão adiada, confirmar elegibilidade no portal e criar uma proposta com duas colunas: \"economia de entrada\" e \"custo recorrente\".</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.2 Revisão ética de adesão versus CNPJ",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> cliente por adesão com CNPJ ativo, reajuste recente ou dúvida sobre permanência.</p><p><b>Abordagem curta:</b> \"Seu plano por adesão ainda atende bem? Como você tem CNPJ, posso comparar as duas formas de contratação sem presumir que o empresarial será melhor.\"</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>Qual foi o reajuste e qual é a mensalidade atual?</li><li>Quais prestadores da rede você realmente usa?</li><li>Quantas vidas podem entrar pelo CNPJ e qual o vínculo de cada uma?</li><li>Há tratamento em andamento ou carência relevante?</li><li>Quanto tempo o CNPJ tem e quais documentos estão disponíveis?</li></ul><p><b>Argumento de valor:</b> \"A comparação correta inclui elegibilidade, rede, carências, reajuste, coparticipação e estabilidade — não apenas o preço promocional.\"</p><p><b>Objeção — \"PME sempre é mais barato\":</b> \"Não. Pode ser mais competitivo em alguns perfis, mas preço, reajuste e regras variam. Só recomendo a troca se o conjunto for melhor e sustentável.\"</p><p><b>Venda cruzada:</b> incluir dental como opção independente, sem condicionar a troca do plano médico.</p><p><b>Ação da semana:</b> revisar 20 clientes por adesão próximos do aniversário e registrar no CRM: manter, renegociar ou cotar PME — sempre com justificativa.</p>",
+              "blocos": [],
+              "fonte": null
+            },
+            {
+              "subtitulo": "6.3 Mutirão final Dr. Dia",
+              "tag": null,
+              "tagLabel": null,
+              "corpo": "<p><b>Perfil e gatilho:</b> beneficiário identificado com plano Dr. Dia; prazo final 20/11.</p><p><b>Abordagem curta:</b> \"A ANS confirmou que o prazo de portabilidade especial da Dr. Dia termina nesta sexta-feira, 20/11. Posso verificar hoje a documentação e as opções disponíveis para não perder o direito?\"</p><p><b>Perguntas de diagnóstico:</b></p><ul><li>O plano atual é médico, odontológico ou combinado?</li><li>Qual é o tipo de contratação e a cobertura registrada?</li><li>Há carência, CPT ou tratamento em andamento?</li><li>Você possui os comprovantes de pagamento exigidos?</li><li>Se o destino for coletivo, consegue comprovar a elegibilidade?</li></ul><p><b>Argumento de valor:</b> \"A Marins organiza o processo e compara planos em comercialização, preservando as carências já cumpridas dentro das regras da ANS.\"</p><p><b>Objeção — \"Ainda tenho alguns dias\":</b> \"O prazo termina em 20/11 e a análise documental pode exigir correção. O mais seguro é formalizar antes do último dia.\"</p><p><b>Venda cruzada:</b> não priorizar venda adicional antes de resolver a continuidade do benefício principal.</p><p><b>Ação da semana:</b> busca imediata no CRM por \"Dr. Dia\", contato no mesmo dia e acompanhamento diário até protocolo ou encerramento.</p>",
+              "blocos": [],
+              "fonte": null
+            }
+          ]
+        }
+      ],
+      "pontosAtencao": [
+        "<b>Dr. Dia — prazo 20/11:</b> localizar e concluir portabilidades pendentes antes do encerramento.",
+        "<b>Campanhas de novembro:</b> executar Bradesco e Qualicorp com regulamento confirmado e custo recorrente explícito; não vender apenas pelo desconto.",
+        "<b>Risco de rede e aceitação:</b> diante da revisão de contratos e unidades pela Hapvida e da maior disciplina de subscrição do mercado, conferir rede, elegibilidade e validade da condição no dia de cada proposta."
+      ],
+      "criterioEditorial": "Critério editorial: foram priorizadas fontes oficiais da ANS, DOU, páginas de operadoras/administradoras e documentos de relações com investidores. Fatos foram separados de inferências comerciais. Notícias antigas sem evolução relevante não foram repetidas."
     }
   ]
 }
